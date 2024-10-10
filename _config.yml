@@ -1,7 +1,8 @@
 title: Spilleregler . volleyball . no
 description: Offisielle spilleregler for volleyball på norsk
-url: https://spilleregler.volleyball.no
-domain: spilleregler.volleyball.no
+baseurl: /spilleregler
+url: https://nvbf.github.io
+domain: nvbf.github.io
 
 markdown: kramdown
 remote_theme: just-the-docs/just-the-docs
