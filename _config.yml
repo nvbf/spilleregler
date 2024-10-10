@@ -1,0 +1,25 @@
+title: Spilleregler . volleyball . no
+description: Offisielle spilleregler for volleyball på norsk
+baseurl: /spilleregler
+url: https://nvbf.github.io
+domain: nvbf.github.io
+
+markdown: kramdown
+remote_theme: just-the-docs/just-the-docs
+kramdown:
+  toc_levels: 1..2
+
+# Theme settings:
+# ---------------
+
+color_scheme: dark
+
+aux_links:
+  "volleyball.no":
+    - "https://volleyball.no"
+
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Forbedre spillereglene vha. GitHub"
+gh_edit_repository: "https://github.com/nvbf/spilleregler"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
