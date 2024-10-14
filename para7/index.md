@@ -139,7 +139,9 @@ sette en registrert spiller på banene.
 ## 7.4 Posisjoner
 {: #r7-4}
 I det øyeblikket serveren slår ballen, skal begge lagene være innenfor sine egne 
-banehalvdeler i korrekt rotasjonsorden (med unntak av serveren).
+banehalvdeler (med unntak av serveren). Spillerne på det mottakende laget må stå
+i korrekt rotasjonsorden. Spillerne på servende laget, derimot, kan stå fritt
+innenfor eget spilleplan uten tanke på rotasjonsorden, når serven går.
 ([7.6.1](#r7-6-1), [8.1](../para8/#r8.1), [12.4](../para12/#r12-4))
 
 ### 7.4.1 
