@@ -58,7 +58,7 @@ anvendelsen eller tolkningen av reglene som han/hun baserte sin avgjørelse på.
 Dersom kampkapteinen ikke er enig i forklaringen til førstedommeren og velger å 
 protestere mot denne, skal han/hun straks forbeholde seg retten til å legge ned en protest 
 ved kampslutt. Førstedommeren må gi kampkapteinen mulighet til dette.
-([5.1.2.1](../para5/#r5-1-2-1), [5.1.3.2](../para5/#r5-1-3-2), [25.2.3.2](../para25/#r25-2-3-2))
+([5.1.2.1](../para5/#r5-1-2-1), [5.1.3.2](../para5/#r5-1-3-2), [27.2.3.2](../para27/#r27-2-3-2))
 
 ### 23.2.5
 {: #r23-2-5}
@@ -136,4 +136,4 @@ side av banen.
 ### 23.3.3
 {: #r23-3-3}
 Når kampen er slutt kontrollerer han/hun kampskjemaet og signerer det. 
-([25.2.3.3](../para25/#r25-2-3-3))
+([27.2.3.3](../para27/#r27-2-3-3))

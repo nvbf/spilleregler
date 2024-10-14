@@ -53,7 +53,7 @@ Aggresjon: fysisk angrep eller aggressiv og truende oppførsel.
 {: #r21-3}
 Avhengig av hvor alvorlig den ukorrekte opptreden er etter førstedommerens 
 bedømming, er sanksjonstiltakene som gis og føres inn i kampskjemaet: 
-([21.2](#r21-2), [25.2.2.6](../para25/#r25-2-2-6), fig. 9)
+([21.2](#r21-2), [27.2.2.6](../para27/#r27-2-2-6), fig. 9)
 
 ### 21.3.1 Advarsel (penalty)
 {: #r21-3-1}
@@ -123,7 +123,7 @@ diskvalifikasjon, men får ingen andre konsekvenser.
 {: #r21-4-1}
 Alle sanksjoner for ukorrekt opptreden er individuell straff og er i kraft for hele kampen 
 og skrives inn i kampskjemaet.
-([21.3](#r21-3), [25.2.2.6](../para25/#r25-2-2-6))
+([21.3](#r21-3), [27.2.2.6](../para27/#r27-2-2-6))
 
 ### 21.4.2
 {: #r21-4-2}

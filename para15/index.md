@@ -179,7 +179,7 @@ Spillerbytte skal finne sted innenfor spillerbyttesonen.
 {: #r15-10-2}
 Et spillerbytte skal bare ta den tiden som er nødvendig for å få byttet skrevet inn i 
 kampskjemaet og for å tillate at spillerne bytter plass.
-([15.10.3](#r15-10-3), [24.2.6](../para24/#r24-2-6), [25.2.2.3](../para25/#r25-2-2-3))
+([15.10.3](#r15-10-3), [24.2.6](../para24/#r24-2-6), [27.2.2.3](../para27/#r27-2-2-3))
 
 ### 15.10.3.1
 {: #r15-10-3-1}
@@ -231,7 +231,7 @@ av et ikke-autorisert lagsmedlem;
 {: #r15-11-1-3}
 om spillerbytte før spillet har vært gjenopptatt etter et foregående spillerbytte hos 
 samme lag, med unntak av skade/sykdom hos en spiller i spill;
-([15.2.2](#r15-2-2), [15.2.3](#r15-2-3), [16.1](../para16/#r16-1), [25.2.2.6](../para25/#r25-2-2-6))
+([15.2.2](#r15-2-2), [15.2.3](#r15-2-3), [16.1](../para16/#r16-1), [27.2.2.6](../para27/#r27-2-2-6))
 
 #### 15.11.1.4
 {: #r15-11-1-4}
@@ -242,7 +242,7 @@ etter å ha benyttet det tillatte antall time-outer og spillerbytter.
 {: #r15-11-2}
 Den første ukorrekte anmodningen som ikke influerer på eller forsinker spillet skal 
 avvises, men må noteres i kampskjemaet uten andre konsekvenser.
-([16.1](../para16/#r16-1), [25.2.2.6](../para25/#r25-2-2-6))
+([16.1](../para16/#r16-1), [27.2.2.6](../para27/#r27-2-2-6))
 
 #### 15.11.2.1
 {: #r15-11-2-1}

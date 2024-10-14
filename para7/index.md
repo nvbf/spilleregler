@@ -84,7 +84,7 @@ Før starten på hvert sett skal treneren levere startoppstillingen for sitt lag
 oppstillingsslipp eller via nettbrett dersom dette benyttes. Oppstillingsslippen leveres 
 korrekt utfylt og underskrevet til andredommeren eller sekretæren – eller eletronisk 
 direkte til sekretær.
-([5.2.3.1](../para5/#r5-2-3-1), [24.3.1](../para24/#r24-3-1), [25.2.1.2](../para25/#r25-2-1-2)).
+([5.2.3.1](../para5/#r5-2-3-1), [24.3.1](../para24/#r24-3-1), [27.2.1.2](../para27/#r27-2-1-2)).
 
 ### 7.3.3
 {: #r7-3-3}
@@ -274,7 +274,7 @@ feilende lag har oppnådd etter det, skal strykes. Motstandernes poeng forblir u
 
 Dersom det ikke lar seg gjøre å fastslå når feilen oppstod, skal ingen poeng strykes, og 
 eneste sanksjon er at motstander får serve og et poeng;
-([25.2.2.2](../para25/#r25-2-2-2))
+([27.2.2.2](../para27/#r27-2-2-2))
 
 ## Fotnoter
 

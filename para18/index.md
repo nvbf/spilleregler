@@ -21,7 +21,7 @@ Ett intervall er tiden mellom to sett. Alle intervall varer i tre minutter.
 
 I løpet av denne tiden skal det foretas bytte av banehalvdel og registrering av 
 oppstillingene i kampskjemaet.
-([7.3.2](../para7/#r7-3-2), [18.2](../para18/#r18-2), [25.2.1.2](../para25/#r25-2-1-2))
+([7.3.2](../para7/#r7-3-2), [18.2](../para18/#r18-2), [27.2.1.2](../para27/#r27-2-1-2))
 
 Intervallet mellom andre og tredje sett kan forlenges til 10 minutter av bestemmende 
 myndighet på forespørsel fra arrangøren. 
@@ -39,7 +39,7 @@ Etter hvert sett bytter lagene banehalvdel, unntatt foran avgjørende sett.
 {: #r18-2-2}
 I det avgjørende settet bytter lagene banehalvdeler uten forsinkelse når ett av lagene når 
 8 poeng. Spillernes posisjoner forblir de samme.
-([6.3.2](../para6/#r6-3-2), [7.4.1](../para7/#r7-4-1), [25.2.2.5](../para25/#r25-2-2-5))
+([6.3.2](../para6/#r6-3-2), [7.4.1](../para7/#r7-4-1), [27.2.2.5](../para27/#r27-2-2-5))
 
 Dersom byttet ikke blir gjort på rett tidspunkt, skal det finne sted så snart feilen 
 oppdages. Poengstillingen på det tidspunkt det byttes forblir den samme.

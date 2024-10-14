@@ -60,7 +60,7 @@ Sanksjon for forsinkelse gjelder for hele kampen.
 #### 16.2.1.2
 {: #r16-2-1-2}
 Alle sanksjoner for forsinkelser skrives inn i kampskjemaet.
-([25.2.2.6](../para25/#r25-2-2-6))
+([27.2.2.6](../para27/#r27-2-2-6))
 
 ### 16.2.2
 {: #r16-2-2}

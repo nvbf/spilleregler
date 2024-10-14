@@ -30,7 +30,7 @@ utnevne to libroer.
 {: #r19-1-2}
 Liberoen(e) skal skrives inn i kampskjemaet før kampstart på de spesielle linjene avsatt 
 til dette.
-([5.2.2](#r5.2.2), [25.2.1.1](../para25/#r25-2-1-1), [26.2.1.1](../para26/#r26-2-1-1))
+([5.2.2](#r5.2.2), [27.2.1.1](../para27/#r27-2-1-1), [28.2.1.1](../para28/#r28-2-1-1))
 
 ### 19.1.3
 {: #r19-1-3}
@@ -199,7 +199,7 @@ Dersom lagleder ønsker å utnevne lagkapteinen til libero, er dette mulig.
 {: #r19-4-2-6}
 Når laget har utpekt en ny libero, må denne spillerens nummer skrives inn i merknadsfeltet
 i kampskjemaet.
-([25.2.2.7](../para25/#r25-2-2-7), [26.2.2.1](../para26/#r26-2-2-1))
+([27.2.2.7](../para27/#r27-2-2-7), [28.2.2.1](../para28/#r28-2-2-1))
 
 ### 19.4.3 Lag med to liberoer
 {: #r19-4-3}

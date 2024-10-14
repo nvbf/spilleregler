@@ -65,12 +65,12 @@ Opererer den manuelle poengtavlen på sekretærbordet
 #### 28.2.2.5
 {: #r28-2-2-5}
 Kontrollerer at poengtavlene har lik poeng stilling. 
-([25.2.2.1](../para25/#r25-2-2-1))
+([27.2.2.1](../para27/#r27-2-2-1))
 
 #### 28.2.2.6
 {: #r28-2-2-6}
 Om nødvendig, ajourfører reservekampskjemaet og gir det til sekretæren.
-([25.2.1.1](../para25/#r25-2-1-1))
+([27.2.1.1](../para27/#r27-2-1-1))
 
 ### 28.2.3 Når kampen er slutt skal assisterende sekretær:
 {: #r28-2-3}

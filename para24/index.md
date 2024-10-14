@@ -40,7 +40,7 @@ men skal ikke insistere på dem overfor førstedommeren.
 ### 24.2.3
 {: #r24-2-3}
 Andredommeren kontrollerer sekretærens arbeid.
-([25.2](..(/para25/#r25-2), [26.2](..(/para26/#r26-2))
+([27.2](..(/para27/#r27-2), [28.2](..(/para28/#r28-2))
 
 ### 24.2.4
 {: #r24-2-4}
@@ -57,14 +57,14 @@ Andredommeren kontrollerer spillerne i oppvarmingsområdet.
 {: #r24-2-6}
 Andredommeren innvilger regulære spilleavbrytelser, kontrollerer deres varighet og 
 avviser ukorrekte anmodninger.
-([15](../para15/#r15), [15.1](../para15/#r15-1), [25.2.2.3](../para25/#r25-2-2-3))
+([15](../para15/#r15), [15.1](../para15/#r15-1), [27.2.2.3](../para27/#r27-2-2-3))
 
 ### 24.2.7
 {: #r24-2-7}
 Andredommeren kontrollerer antall time-outer og spillerbytter som er benyttet av hvert 
 lag og melder fra om andre time-out og femte og sjette spillerbytte til førstedommeren 
 og til den involverte treneren.
-([15.1](../para15/#r15-1), [25.2.2.3](../para25/#r25-2-2-3))
+([15.1](../para15/#r15-1), [27.2.2.3](../para27/#r27-2-2-3))
 
 ### 24.2.8
 {: #r24-2-8}
@@ -142,9 +142,9 @@ motstanders spilleflate eller berører antennen på sin banehalvdel.
 {: #r24-3-2-8}
 serven eller det tredje slaget passerer over eller utenfor antennen på andredommer sin 
 side av banen.
-([23.3.3](../para23/#r23-3-3), [25.2.3.3](../para25/#r25-2-3-3))
+([23.3.3](../para23/#r23-3-3), [27.2.3.3](../para27/#r27-2-3-3))
 
 ### 24.3.3
 {: #r24-3-3}
 Undertegner kampskjemaet når kampen er slutt.
-([25.2.3.3](../para25/#r25-2-3-3))
+([27.2.3.3](../para27/#r27-2-3-3))

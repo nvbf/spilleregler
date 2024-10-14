@@ -26,7 +26,7 @@ lagsmedlemmer.
 {: #r5-1-1}
 Før kampen skal lagkapteinen representere sitt lag ved trekningen og underskrive
 kampskjemaet.
-([7.1](../para7/#r7-1), [25.2.1.1](../para25/#r25-2-1-1)) 
+([7.1](../para7/#r7-1), [27.2.1.1](../para27/#r27-2-1-1)) 
 
 ### 5.1.2
 {: #r5-1-2}
@@ -72,7 +72,7 @@ som har overtatt dennes funksjoner å be om time-out og spillerbytter.
 #### 5.1.3.1
 {: #r5-1-3-1}
 takker lagkapteinen dommerne og skriver under kampskjemaet for å bekrefte resultatet; 
-([25.2.3.3](../para25/#r25-2-3-3))
+([27.2.3.3](../para27/#r27-2-3-3))
 
 #### 5.1.3.2
 {: #r5-1-3-2}
@@ -80,7 +80,7 @@ dersom han/hun tidligere har gitt beskjed om at uenighet med førstedommeren kan
 resultere i protest, kan en slik protest bli bekreftet av lagkapteinen og notert i 
 kampskjemaet som en offisiell protest med hensyn til førstedommerens anvendelse eller 
 tolkning av reglene.
-([5.1.2.1](#r5-1-2-1), [25.2.3.2](../para25/#r25-2-3-2))
+([5.1.2.1](#r5-1-2-1), [27.2.3.2](../para27/#r27-2-3-2))
 
 ## 5.2 Treneren
 {: #r5-2}
@@ -96,7 +96,7 @@ andredommeren den funksjonæren han/hun henvender seg til.
 {: #r5-2-2}
 Før kampen skal treneren skrive inn eller kontrollere navn og numre på sine spillere i 
 kampskjemaet og så undertegne det.
-([4.1](../para4/#r4-1), [25.2.1.1](../para25/#r25-2-1-1))
+([4.1](../para4/#r4-1), [27.2.1.1](../para27/#r27-2-1-1))
 
 ### 5.2.3
 {: #r5-2-3}
