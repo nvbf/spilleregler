@@ -24,7 +24,7 @@ servesonen.
 ### 12.1.1
 {: #r12-1-1}
 Den første serven i første sett og i avgjørende sett (femte) blir utført av det laget som fikk 
-retten til det ved myntoppkastet.
+retten til det ved myntkastet.
 ([6.3.2](../para6/#r6-3-2), [7.1](../para7/#r7-1))
 
 ### 12.1.2
