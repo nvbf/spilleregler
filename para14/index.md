@@ -21,7 +21,8 @@ parent: Kapittel 4
 {: #r14-1-1}
 Blokkering er handlingen til spillere nær nettet for å stanse ballen som kommer fra 
 motstanderne ved å rekke armene høyere enn nettets overkant, uavhengig av i hvilken 
-høyde ballen treffer. Bare frontspillere kan fullføre en blokk.
+høyde ballen treffer. Bare frontspillere kan fullføre en blokk, men i det øyeblikket 
+ballen berøres må en del av kroppen være over toppen av nettet.
 ([7.4.1.1](../para7/#r7-4-1-1))
 
 ### 14.1.2 Blokkeringsforsøk
@@ -77,7 +78,7 @@ Det er forbudt å blokkere en motspillers serve.
 
 ### 14.6.1
 {: #r14-6-1}
-Blokkspilleren berører ballen i motstandernes spillerom enten før eller samtidig med 
+Blokkspilleren berører ballen i motstandernes spillerom før
 motstandernes angrepsslag.
 ([14.3](#r14-3))
 

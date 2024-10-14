@@ -14,8 +14,9 @@ nav_order: 9
 
 # 9 Å spille ballen
 {: #r9 .no_toc}
-Hvert lag må spille innen eget spilleområde og spillerom (unntatt regel [10.1.2](../para10/#r10-1-2)).
-Ballen kan imidlertid spilles tilbake fra utenfor lagets egen frisonen.
+Hvert lag må spille innenfor eget spilleområde og spillerom (unntatt regel [10.1.2](../para10/#r10-1-2)).
+Ballen kan imidlertid spilles tilbake fra utenfor lagets egen frisonen og over sekretærbordet i 
+dettes hele lengde. (Fig 1b)
 
 ## 9.1 Lagets slag 
 {: #r9-1}
@@ -92,23 +93,23 @@ forutsatt at berøringene skjer i løpet av én handling.
 ## 9.3 Feil ved ballberøringen
 {: #r9-3}
 
-### 9.3.1 Fire slag
+### 9.3.1 FIRE SLAG
 {: #r9-3-1}
 Et lag slår ballen fire ganger før de returnerer den.
 ([9.1](#r9-1), fig. 11 (18))
 
-### 9.3.2 Slag med hjelp
+### 9.3.2 SLAG MED HJELP
 {: #r9-3-2}
 En spiller mottar hjelp av en medspiller eller benytter seg av en 
 oppbygning eller gjenstand for å spille ballen innenfor spilleområdet.
 ([9.1.3](#r9-1-3))
 
-### 9.3.3 Holdt ball
+### 9.3.3 HOLDT BALL
 {: #r9-3-3}
 Ballen fanges og/eller kastes, den spretter ikke tilbake fra slaget. 
 ([9.2.2](#r9-2-2), fig. 11 (16))
 
-### 9.3.4 Dobbeltslag
+### 9.3.4 DOBBELTSLAG
 {: #r9-3-4}
 En spiller slår ballen to ganger etter hverandre eller ballen berører 
 forskjellige deler av kroppen etter hverandre.

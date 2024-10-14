@@ -27,7 +27,8 @@ Deltakerne skal akseptere dommernes avgjørelser på en sportslig måte, uten å
 dem.
 
 I tvilstilfeller kan det bes om en klargjøring gjennom kampkapteinen, og bare gjennom 
-han. (5.1.2.1)
+denne.
+([5.1.2.1](../para5/#r5-1-2-1))
 
 ### 20.1.3
 {: #r20-1-3}
@@ -45,4 +46,5 @@ medspillere og tilskuere.
 
 ### 20.2.2
 {: #r20-2-2}
-Kommunikasjon mellom lagsmedlemmene under kampen er tillatt. (5.2.3.4)
+Kommunikasjon mellom lagsmedlemmene under kampen er tillatt.
+([5.2.3.4](../para5/#r5-2-3-4))

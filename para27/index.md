@@ -1,5 +1,5 @@
 ﻿---
-title: 27 Linjedommere
+title: 27 Sekretæren
 parent: Kapittel 8
 ---
 <details open markdown="block">
@@ -11,70 +11,109 @@ parent: Kapittel 8
 {:toc}
 </details>
 
-# 27 Linjedommere
+# 27 Sekretæren
 {: #r27 .no_toc}
 
 ## 27.1 Plassering
 {: #r27-1}
-Dersom det nyttes bare to linjedommere, skal de stå i hjørnene på banen, nærmest høyre 
-hånd til hver av dommerne, diagonalt i en avstand av 1 - 2 m fra hjørnet.
-
-Hver linjedommer kontrollerer både baklinjen og sidelinjen på sin side.[^1]
+Sekretæren utfører sine oppgaver sittende ved sekretærbordet på motsatt side av banen 
+av førstedommeren og vendt mot denne.
 (Fig. 1a, fig. 1b, fig. 10)
 
 ## 27.2 Plikter
 {: #r27-2}
+Han/hun fører kampskjemaet i overensstemmelse med reglene og samarbeider med 
+andredommeren. 
 
-### 27.2.1
+Han/hun benytter en buzzer eller en annen lydkilde for varsle om uregelmissigheter eller 
+gi signal til dommerne på grunnlag av sine plikter.
+
+### 27.2.1 Før kampen og settet skal sekretæren:
 {: #r27-2-1}
-Linjedommerne utfører sine oppgaver ved å benytte flagg (40 x 40 cm) som vist i fig. 12 
-for å signalisere:
 
 #### 27.2.1.1
 {: #r27-2-1-1}
-ball «inne» og ball «ute» hver gang ballen lander nær deres linje(r),
-([8.3](../para8/#r8-3), [8.4](../para8/#r8-4))
+registrere kampens og lagenes data i overensstemmelse med gjeldende retningslinjer, og 
+motta underskriftene til kapteinene og trenerne;
+([4.1](../para4/#r4-1), [5.1.1](../para5/#r5-1-1), [5.2.2](../para5/#r5-2-2), [7.3.2](../para7/#r7-3-2),
+ [19.1.2](../para19/#r19-1-2), [19.4.2.6](../para19/#r19-4-2-6))
 
 #### 27.2.1.2
 {: #r27-2-1-2}
-berøring av det mottakende lag på baller som går «ut»,
-([8.4](../para8/#r8-4), fig. 12 (3))
+skrive inn startoppstillingene til hvert av lagene fra oppstillingsslippene.
+([5.2.3.1](../para5/#r5-2-3-1), [7.3.2](../para7/#r7-3-2))
 
-#### 27.2.1.3
-{: #r27-2-1-3}
-når ballen berører antenna, serveballen og det tredje slaget passerer nettet utenfor 
-passeringsområdet osv.,
-([8.4.3](../para8/#r8-4-3), [8.4.4](../para8/#r8-4-4))
+Dersom han/hun ikke mottar oppstillingsslippene i tide, skal han/hun straks gi 
+andredommeren beskjed om dette.
 
-#### 27.2.1.4
-{: #r27-2-1-4}
-dersom en spiller (unntatt serveren) trår utenfor sin banehalvdel i serveøyeblikket; 
-([7.4](../para7/#r7-4), [12.4.3](../para12/#r12-4-3), fig. 12 (4))
-
-#### 27.2.1.5
-{: #r27-2-1-5}
-fotfeil hos serveren,
-([12.4.3](../para12/#r12-4-3))
-
-#### 27.2.1.6
-{: #r27-2-1-6}
-enhver kontakt med de øvre 80 cm av antennen på deres side av banen av hvilken som 
-helst spiller som spiller ballen eller at denne kontakten forstyrrer spillet;
-([11.3.1](../para11/#r11-3-1), [11.4.4](../para11/#r11-4-4), fig. 12 (4)) 
-
-#### 27.2.1.7
-{: #r27-2-1-7}
-ball som passerer nettet utenfor passeringsområdet og inn på motstandernes banehalvdel 
-eller berører antennen på hans/hennes side av banen.
-([10.1.1](../para10/#r10-1-1))
-
-### 27.2.2
+### 27.2.2 Under kampen skal sekretæren:
 {: #r27-2-2}
-På førstedommerens forespørsel må linjedommeren repetere signalet sitt.
 
-## Fotnoter
+#### 27.2.2.1
+{: #r27-2-2-1}
+skrive inn poengene hvert lag får
+([6.1](../para6/#r6-1))
 
-[^1]:
-    I verdensomfattende FIVB-konkurranser er det obligatorisk med fire
-    linjedommere. De står i frisonen 1 til 3 m fra hvert hjørne av banen,
-    på den imaginære fortsettelsen av linja de kontrollerer. (Fig. 10)
+#### 27.2.2.2
+{: #r27-2-2-2}
+kontrollere serverekkefølgen hos hvert lag og gjøre dommerne oppmerksom på feil 
+straks etter serveslaget;
+([12.2](../para12/#r12-2))
+
+#### 27.2.2.3
+{: #r27-2-2-3}
+er gitt fullmakt til å godkjenne og tilkjennegi forespørsler om spillerbytte ved å bruke 
+buzzer; kontrollere nummer på spillerne som bytter, notere spillerbyttet og time-out, 
+samt informere andredommer.
+([15.1](../para15/#r15-1), [15.4.1](../para15/#r15-4-1), [15.10.3.3](../para15/#r15-10-3-3),
+ [24.2.6](../para24/#r4-2-6), [24.2.7](../para24/#r4-2-7))
+
+#### 27.2.2.4
+{: #r27-2-2-4}
+gi beskjed til dommerne om en anmodning om avbrytelse som ikke er tillatt;
+([15.11](../para15/#r15-11))
+
+#### 27.2.2.5
+{: #r27-2-2-5}
+gi beskjed til dommerne om sett slutt, og når et lag har nådd 8 poeng i det avgjørende 
+settet;
+([6.2](../para6/#r6-2), [15.4.1](../para15/#r15-4-1), [18.2.2](../para18/#r18-2-2))
+
+#### 27.2.2.6
+{: #r27-2-2-6}
+skriver inn alle sanksjoner;
+([15.11.3](../para15/#r15-11-3), [16.2](../para16/#r16-2), [21.3](../para21/#r21-3))
+
+#### 27.2.2.7 
+{: #r27-2-2-7}
+skriver inn alle andre hendelser slik andredommer ber om, f. eks. ekstraordinære 
+spillerbytter, når en spiller som er skadet får tre minutters pause, forlengede pauser, 
+ekstern forstyrrelser, etc.;
+([15.7](../para15/#r15-7), [17.1.2](../para17/#r17-1-2), [17.2](../para17/#r17-2), [17.3](../para17/#r17-3),
+ [19.4](../para19/#r19-4))
+
+#### 27.2.2.8
+{: #r27-2-2-8}
+kontroller tiden mellom settene
+([18.1](../para18/#r18-1))
+
+### 27.2.3 Ved kampslutt skal sekretæren:
+{: #r27-2-3}
+
+#### 27.2.3.1
+{: #r27-2-3-1}
+skrive inn det endelige resultatet;
+([6.3](../para6/#r6-3))
+
+#### 27.2.3.2
+{: #r27-2-3-2}
+i tilfelle av protest, og etter at førstedommeren har gitt tillatelse til  det, skrive inn eller 
+tillate kapteinen å skrive inn i kampskjemaet en uttalelse om den aktuelle hendelsen 
+protesten gjelder;
+([5.1.2.1](../para5/#r5-1-2-1), ([5.1.3.2](../para5/#r5-1-3-2), [23.2.4](../para23/#r23-2-4))
+
+#### 27.2.3.3
+{: #r27-2-3-3}
+etter selv å ha underskrevet kampskjemaet, sørge for underskriftene til lagkapteinene og 
+deretter dommerne.
+([5.1.3.1](../para5/#r5-1-3-1), [23.3.3](../para23/#r23-3-3), [24.3.3](../para24/#r24-3-3))

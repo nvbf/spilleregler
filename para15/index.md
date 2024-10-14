@@ -43,7 +43,13 @@ spilleavbrytelse. To eller flere spillere kan byttes i samme avbrytelse.
 {: #r15-2-3}
 Det må være en fullført ballveksling mellom to separate spillerbytter anmodet fra det 
 samme laget (Unntak: et pålagt spillerbytte som resultat av skade eller 
-utvisning/diskvalifikasjon)
+utvisning/diskvalifikasjon. ([15.5.2](#r15-5-2), [15.7](#r15-7), [15.8](#r15-8)))
+
+### 15.2.4
+{: #r15-2-4}
+Det er ikke tillatt å be om en regulær spilleavbrytelse etter å ha fått avslått
+en forespørsel og fått tilsnakk for forsinkelse (delay warning) ved den samme
+avbruddet, før neste ballveksling er over.
 
 ## 15.3 Anmodning om regulære avbrytelser
 {: #r15-3}
@@ -51,7 +57,7 @@ utvisning/diskvalifikasjon)
 ### 15.3.1
 {: #r15-3-1}
 Treneren kan anmode om regulære spilleravbrytelser, eller av kampkapteinen dersom 
-treneren ikke er tilgjengelig, og bare av disse to.
+treneren eller assistenttrener ikke er tilgjengelig, og bare av disse.
 ([5.1.2](../para5/#r5-1-2), [5.2](../para5/#r5-2), [15](#r15))
 
 ### 15.3.2
@@ -68,28 +74,15 @@ settet.
 Time-out anmodninger må gjøres ved å vise det korrekte håndsignalet, når ballen er ute 
 av spill og før signalet for neste serve. Alle time-outer som lagene ber om varer i 30 
 sekunder.[^2]
-(Fig. 11 (4)) 
+(Fig. 11 (4))
 
 ### 15.4.2
 {: #r15-4-2}
-I verdensomfattende FIVB-konkurranser er det i tillegg to tekniske time-outer pr. sett i 
-settene 1-4, hver med en varighet på 60 sekunder. De nyttes automatisk når det ledende 
-laget når 8 poeng og 16 poeng.
-([15.3.1](#r15-3-1))
+I alle time-outene skal spillerne som er i spill gå til frisonen nær sin spillerbenk.
 
-### 15.4.3
-{: #r15-4-3}
-I det avgjørende (5) settet, er det ingen «tekniske time-outer», begge lagene kan anmode 
-om to regulære time-outer på 30 sekunder.
-([6.3.2](../para6/#r6-3-2))
-
-### 15.4.4
-{: #r15-4-4}
-I alle time-outene (inkludert teknisk time-out) skal spillerne som er i spill gå til 
-frisonen nær sin spillerbenk.
-
-## 15.5 Spillerbytte                                                                                          Fig. 11 (5)
+## 15.5 Spillerbytte
 {: #r15-5}
+(Fig. 11 (5))
 
 ### 15.5.1
 {: #r15-5-1}
@@ -122,13 +115,17 @@ fra startoppstillingen.
 
 ## 15.7 Ekstraordinært spillerbytte
 {: #r15-7}
-En skadet spiller (unntatt liberoen) som ikke kan fortsette å spille, skal byttes ut ved et 
-reglementert spillerbytte. Dersom dette ikke er mulig, har laget rett til å foreta et 
+En spiller (unntatt liberoen) som ikke kan fortsette å spille på grunn av skade/sykdom
+eller utvisning/dikvalifikasjon, skal byttes ut ved et reglementert spillerbytte.
+Dersom dette ikke er mulig, har laget rett til å foreta et 
 ekstraordinært spillerbytte, utover begrensningene i regel [15.6](#r15-6).
 
-Et ekstraordinært spillerbytte betyr at en hvilken som helst spiller som ikke er på banen 
-når skaden oppstod, unntatt Libero eller hans/hennes erstatter, kan byttes inn for den 
-skadede spilleren. Den erstattede skadede spilleren kan ikke spille mer i samme kamp. 
+Et ekstraordinært spillerbytte betyr at en hvilken som helst spiller som ikke er på banen
+på det tidspunktet da skade/sykdom/utvisning/diskvalifikasjon skjedde, unntatt Libero, 
+Libero nr 2 eller hans/hennes erstatter, kan byttes inn for den 
+skadde/syke/utviste/diskvalifiserte spilleren.
+
+Den erstattede spilleren kan ikke spille mer i samme kamp
 Et ekstraordinært spillerbytte kan ikke i noen sammenheng bli regnet som vanlig 
 spillerbytte, men skal noteres i kampskjemaet som en av det totale antall spillerbytter i 
 settet og kampen.   
@@ -136,7 +133,8 @@ settet og kampen.
 ## 15.8 Spillerbytte ved utvisning eller diskvalifikasjon
 {: #r15--8}
 En utvist eller diskvalifisert spiller må bli byttet gjennom et reglementert spillerbytte. 
-Dersom dette ikke er mulig, blir laget erklært ufulltallig. 
+Dersom dette ikke er mulig, har laget rett til å gjøre et ekstraordinært spillerbytte. 
+Dersom dette ikke er mulig, blir laget erklært ufulltallig.
 ([6.4.3](../para6/#r6-4-3), [7.3.1](../para7/#r7-3-1), [15.6](#r15-6),
  [21.3.2](../para21/#r21-3-2), [21.3.3](../para21/#r21-3-3))
 
@@ -152,7 +150,7 @@ spiller som ikke står i spillerlisten er involvert.
 ### 15.9.2 
 {: #r15-9-2}
 Når et lag har foretatt et ureglementert spillerbytte og spillet er blitt gjenopptatt, skal 
-følgende skje:
+følgende skje i denne rekkefølgen:
 ([8.1](../para8/#r8-1), [15.6](#r15-6))
 
 #### 15.9.2.1
@@ -183,21 +181,21 @@ Et spillerbytte skal bare ta den tiden som er nødvendig for å få byttet skrev
 kampskjemaet og for å tillate at spillerne bytter plass.
 ([15.10.3](#r15-10-3), [24.2.6](../para24/#r24-2-6), [25.2.2.3](../para25/#r25-2-2-3))
 
-### 15.10.3a
-{: #r15-10-3a}
+### 15.10.3.1
+{: #r15-10-3-1}
 Anmodningen om spillerbytte skjer ved at innbyttespilleren(e), klar til å spille, går inn i 
 spillerbyttesonen ved en spilleravbrytelse. Treneren behøver ikke å vise noe håndsignal, 
 unntak: dersom spillerbyttet er i forbindelse med bytte av skadet spiller, eller ved starten 
 på settet.
 
-### 15.10.3b
-{: #r15-10-3b}
+### 15.10.3.2
+{: #r15-10-3-2}
 Dersom spilleren ikke er klar til å spille, skal spillerbyttet ikke innvilges og laget 
 straffes for forsinkelse.
 ([16.2](../para16/#r16-2))
 
-### 15.10.3c
-{: #r15-10-3c}
+### 15.10.3.3
+{: #r15-10-3-3}
 Anmodningen om spillerbyttet skal bekrefte og annonseres av sekretær eller 2. dommer 
 ved å bruke enten en buzzer eller fløyte. 2. dommer skal autorisere spillerbytte.[^3] 
 ([24.2.6](../para24/#r24-2-6))

@@ -24,7 +24,7 @@ servesonen.
 ### 12.1.1
 {: #r12-1-1}
 Den første serven i første sett og i avgjørende sett (femte) blir utført av det laget som fikk 
-retten til det ved trekningen.
+retten til det ved myntoppkastet.
 ([6.3.2](../para6/#r6-3-2), [7.1](../para7/#r7-1))
 
 ### 12.1.2
@@ -104,15 +104,16 @@ En serve som er utført før dommeren har blåst skal kanselleres og tas på nyt
 ### 12.5.1
 {: #r12-5-1}
 Spillerne på det servende laget må ikke ved hjelp av skjerming hindre motstanderne fra 
-å se serveren og ballbanen.
+å se serven og ballbanen.
 ([12.5.2](#r12-5-2))
 
 ### 12.5.2
 {: #r12-5-2}
 En spiller, eller en gruppe spillere, på det servende laget utfører en skjerming dersom 
 han/hun/de vifter med armene, hopper eller forflytter seg sidelengs mens serven blir 
-utført, eller ved å stå samlet slik at de dekker både serveren og ballbanen til den når 
-vertikalplanet gjennom nettet.
+utført, eller ved å stå samlet slik at de dekker både serven (selve slagøyeblikket) og 
+ballbanen til den når vertikalplanet gjennom nettet. Skulle en av de to være synlig for 
+det mottakende lag er det ikke en skjerm.
 ([12.4](#r12-4), fig. 6) 
 
 ## 12.6 Servefeil

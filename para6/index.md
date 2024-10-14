@@ -20,17 +20,20 @@ parent: Kapittel 3
 ### 6.1.1 Poeng
 {: #r6-1-1}
 Et lag vinner et poeng:
+
 #### 6.1.1.1
 {: #r6-1-1-1}
-Ved å spille ballen i bakken/gulvet på motstandernes banehalvdel;
+ved å spille ballen i bakken/gulvet på motstandernes banehalvdel;
 ([8.3](../para8/#r8.3), [10.1.1](../para10/#r10.1.1))
+
 #### 6.1.1.2
 {: #r6-1-1-2}
-Når motstanderlaget gjør en feil;
+når motstanderlaget gjør en feil;
 ([6.1.2](#r6.1.2), fig. 11 (23))
+
 #### 6.1.1.3
 {: #r6-1-1-3}
-Når motstanderlaget får en straff.
+når motstanderlaget får en straff.
 ([16.2.3](../para16/#r16.2.3), [21.3.1](../para21/#r21.3.1))
 
 ### 6.1.2  Feil
@@ -64,9 +67,10 @@ Dette inkluderer:
 {: #r6-1-3-1}
 Dersom det servende laget vinner en ballveksling, vinner det et poeng og fortsetter å 
 serve.
+
 #### 6.1.3.2
 {: #r6-1-3-2}
-Dersom det servemottakende laget vinner en ballveksling, vinner det et poeng og det 
+Dersom det mottakende laget vinner en ballveksling, vinner det et poeng og det 
 skal serve neste serve.
 
 ## 6.2 Å vinne et sett

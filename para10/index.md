@@ -45,8 +45,9 @@ lagets antall berøringer, forutsatt at:
 #### 10.1.2.1
 spilleren ikke berører motstandernes banehalvdel;
 ([11.2.2](../para11/#r11-2-2))
+
 #### 10.1.2.2
-ballen, når den spilles tilbake, passerer vertikalplanet gjennom nettet igjen gjennom det 
+ballen, når den spilles tilbake, passerer vertikalplanet gjennom nettet gjennom det 
 eksterne området på samme side av banen.
 
 Motstanderlaget kan ikke hindre en slik handling.

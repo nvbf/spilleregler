@@ -43,7 +43,8 @@ Det kan ikke på noe tidspunkt være mer enn en libero på banen.
 {: #r19-2}
 Liberospillerne skal ha på en drakt (eller vest over spilletrøye for en libero som er 
 utnevnt i løpet av kampen) som har en annen dominant farge enn det de andre spillerne 
-på laget har. Drakten må klart skille seg fra de andre spillerne.[^1]
+på laget har. Drakten må klart skille seg fra de andre spillerne.
+Libroene kan ha uniformer som er forskjellige fra hverandre.[^1]
 ([4.3](../para4/#r4-3))
 
 Libero uniformen skal nummereres på samme måte som resten av spillerne på laget. 
@@ -136,12 +137,12 @@ Et ureglementert skifte som inkludere libero kan (blant annet) være:
 - Det er ikke en fullført ballveksling mellom skiftene
 - Liberoen erstattes av en spiller som ikke kan ta dennes plass ([19.3.2.2](#r19-3-2-2))
 
-Ett ureglementert liberoskifte skal behandles som ett ureglementert spillerbytte.
+Ett ureglementert liberoskifte skal behandles som ett ureglementert spillerbytte:
 
-Dvs. at dersom det ureglementere liberoskiftet oppdages før starten på den neste 
+dersom det ureglementere liberoskiftet oppdages før starten på den neste 
 ballvekslingen, rettes dette av dommerne og laget tildeles «sanksjon for forsinkelse».
 
-Dersom det ulovlige liberoskiftet blir oppdaget etter at ballvekslingen er satt i gang, 
+dersom det ulovlige liberoskiftet blir oppdaget etter at ballvekslingen er satt i gang, 
 serven er slått, er konsekvensene de samme som for et ureglementert spillerbytte.
 ([15.9](../para15/#r15-9))
 
@@ -191,8 +192,7 @@ Dersom den nyutnevnte liberoen ikke kan spille videre, kan det utnevnes en ny li
 
 #### 19.4.2.5
 {: #r19-4-2-5}
-Dersom lagleder ønsker å utnevne lagkapteinen til libero, er dette mulig, men 
-lagkapteinen må da avstå fra alle privilegier.
+Dersom lagleder ønsker å utnevne lagkapteinen til libero, er dette mulig.
 ([5.1.2](../para5/#r5-1-2), [19.4.1](#r19-4-1))
 
 #### 19.4.2.6
@@ -206,8 +206,8 @@ i kampskjemaet.
 
 #### 19.4.3.1
 {: #r19-4-3-1}
-Når et lag bruker to liberoer, men den ene blir ute av stand til å spille videre (utvist, syk, 
-skadet osv) har laget rett til å spille med kun en libero og dette blir de den aktive 
+Når et lag bruker to liberoer, men den ene blir ute av stand til å spille videre
+har laget rett til å spille med kun en libero og dette blir da den aktive 
 liberoen.
 ([4.1.1](../para4/#r4-1-1), [19.1.1](#r19-1-1))
 

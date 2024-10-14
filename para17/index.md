@@ -1,5 +1,5 @@
 ﻿---
-title: 17 Unntaksvise spilleavbrytelser
+title: 17 Spesielle spilleavbrytelser
 parent: Kapittel 5
 ---
 <details open markdown="block">
@@ -11,7 +11,7 @@ parent: Kapittel 5
 {:toc}
 </details>
 
-# 17 Unntaksvise spilleavbrytelser
+# 17 Spesielle spilleavbrytelser
 {: #r17 .no_toc}
 
 ## 17.1 Skade    
@@ -59,9 +59,8 @@ Skulle det oppstå én eller flere avbrytelser, som i alt ikke overskrider 4 tim
 #### 17.3.2.1
 {: #r17-3-2-1}
 dersom kampen fortsetter på samme bane, skal det avbrutte settet fortsette normalt, med 
-samme poengstilling, spillere (ikke utviste eller diskvalifiserte spiller) og posisjoner, 
-dersom kampen gjenopptas på samme bane. Resultatet fra foregående settene forblir 
-uendret.
+samme poengstilling, spillere (ikke utviste eller diskvalifiserte spiller) og posisjoner.
+Resultatet fra de foregående settene forblir uendret.
 ([1](../para1/#r1), [7.3](../para7/#r7-3))
 
 #### 17.3.2.2

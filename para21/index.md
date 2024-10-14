@@ -67,12 +67,13 @@ motstanderen får serven og et poeng.
 
 #### 21.3.2.1
 {: #r21-3-2-1}
-Et lagsmedlem som sanksjoneres med utvisning må umiddelbart byttes ved et regulært 
-spillerbytte dersom han/han er på banene og må sitte i sanksjonsområdet, uten noen 
-andre konsekvenser.
-(1.4.6, [4.1.1](../para4/#r4-1-1), [5.2.1](../para5/#r5-2-1), [5.3.2](../para5/#r5-3-2), fig. 1a, fig 1b)
+Et lagsmedlem som sanksjoneres med utvisning må umiddelbart byttes ved et 
+regulært/ekstraordinært spillerbytte dersom hun/han er på banen, kan ikke delta i resten 
+av settet og må gå i lagets garderobe til settet er avsluttet, uten andre konsekvenser.
+([4.1.1](../para4/#r4-1-1), [5.2.1](../para5/#r5-2-1), [5.3.2](../para5/#r5-3-2), fig. 1a, fig. 1b)
 
-En utvist trener mister retten til å delta i settet og må sitte i sanksjonsområdet.
+En utvist trener mister retten til å delta i settet og må gå i lagets garderobe
+til settet er fullført.
 ([5.2.3.3](#r5.2.3.3))
 
 #### 21.3.2.2
@@ -93,13 +94,14 @@ med utvisning og får ingen andre konsekvenser.
 #### 21.3.3.1
 {: #r21-3-3-1}
 Et lagsmedlem som sanksjoneres med diskvalifikasjon må umiddelbart byttes ved et 
-regulært spillerbytte dersom han/han er på banene og må forlate    
-konkurranseområdet for resten av kampen, men får ingen andre konsekvenser. 
-(Fig. 1a, 4.1.1)
+regulært/ekstraordinært spillerbytte dersom hun/han er på banen, og må gå i lagets 
+garderobe for resten av kampen, men får ingen andre konsekvenser. 
+([4.1.1](../para4/#r4-1-1), fig. 1a)
 
 #### 21.3.3.2
 {: #r21-3-3-2}
-Første aggresjon sanksjoneres med diskvalifikasjon, men får ingen andre konsekvenser. 
+Første fysiske angrep eller truende oppførsel/aggresjon sanksjoneres med
+diskvalifikasjon, men får ingen andre konsekvenser. 
 ([21.2.3](#r21-2-3))
 
 #### 21.3.3.3
@@ -146,7 +148,8 @@ med Regel 21.3 og sanksjonen hører hjemme under det påfølgende settet.
 {: #r21-6}
 (Fig. 11 (6, 7, 8))
 
-| Tilsnakk (warning):                  | tilsnakk – gult kort              ([21.1](#r21-1))     |
+| Tilsnakk (warning):                  | 1. steg: verbal tilsnakk                               |
+|                                      | 2. steg: gult kort                ([21.1](#r21-1))     |
 | Advarsel (penalty):                  | rødt kort                         ([21.3.1](#r21-3-1)) |
 | Utvisning (expulsion):               | gult og rødt kort i samme hånd    ([21.3.2](#r(21-3-2))|
 | Diskvalifikasjon (disqualification): | gult og rødt kort i hver sin hånd ([21.3.3](#r21-3-3)) |

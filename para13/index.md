@@ -25,8 +25,8 @@ angrepsslag. (Fig. 2)
 
 ### 13.1.2
 {: #r13-1-2}
-Under et angrepsslag er det tillatt å spille ballen med fingertuppene, men bare dersom 
-det er et rent slag og ballen ikke holdes eller kastes.
+Under et angrepsslag er det tillatt å spille ballen med fingertuppene (tipping),
+men bare dersom det er et rent slag og ballen ikke holdes eller kastes.
 ([9.2.2](../para9/#r9-2-2))
 
 ### 13.1.3
@@ -40,7 +40,8 @@ eller blir berørt av en motspiller.
 ### 13.2.1 
 {: #r13-2-1}
 En frontspiller kan fullføre et angrepsslag i en hvilken som helst høyde, forutsatt at 
-spilleren berørte ballen i sitt eget spillerom (unntatt regel [14.2.4](../para14/#r14-2-4)). 
+spilleren berørte ballen i sitt eget spillerom (unntatt regel 
+[13.2.4](../para13/#r13-2-4) og [13.3.6](../para13/#r13-3-6)). 
 ([7.4.1.1](../para7/#r7-4-1-1))
 
 ### 13.2.2 

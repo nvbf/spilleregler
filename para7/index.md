@@ -14,24 +14,24 @@ parent: Kapittel 3
 # 7 Spillets struktur
 {: #r7 .no_toc}
 
-## 7.1 Trekningen
+## 7.1 Myntoppkast
 {: #r7-1}
 
-Før kampen foretar førstedommeren en trekning for å avgjøre hvem som skal serve først 
+Før kampen foretar førstedommeren et myntoppkast for å avgjøre hvem som skal serve først 
 og hvilken side av nettet lagene skal spille på i det første settet.
 ([12.1.1](../para12/#r12-1-1)).
 
-Dersom det skal spilles et avgjørende sett, skal det foretas ny trekning.
+Dersom det skal spilles et avgjørende sett, skal det foretas et nytt myntoppkast.
 ([6.3.2](../para6/#r6-3-2))
 
 ### 7.1.1
 {: #r7-1-1}
-Trekningen finner sted i nærvær av de to lagenes kapteiner.
+Myntoppkastet finner sted i nærvær av de to lagenes kapteiner.
 ([5.1](../para5/#r5-1)).
 
 ### 7.1.2
 {: #r7-1-2}
-Den som vinner trekningen velger:
+Den som vinner myntoppkastet velger:
 
 *enten*
 
@@ -48,7 +48,7 @@ banehalvdel.
 
 Den som taper får det gjenstående alternativet.
 
-## 7.2 Oppvarming
+## 7.2 Offisiell opvarming
 {: #r7-2}
 
 ### 7.2.1
@@ -59,7 +59,7 @@ kan de få 10 minutter.[^1]
 
 ### 7.2.2
 {: #r7-2-2}
-Dersom én av kapteinene ber om separat oppvarming på nettet, kan lagene få det i 3 
+Dersom én av kapteinene ber om separat oppvarming på nettet, kan lagene få 3 minutter
 eller 5 minutter hver.
 
 ### 7.2.3
@@ -82,7 +82,8 @@ rotasjonsorden skal beholdes gjennom hele settet.
 {: #r7-3-2}
 Før starten på hvert sett skal treneren levere startoppstillingen for sitt lag på en 
 oppstillingsslipp eller via nettbrett dersom dette benyttes. Oppstillingsslippen leveres 
-korrekt utfylt og underskrevet til andredommeren eller sekretæren.
+korrekt utfylt og underskrevet til andredommeren eller sekretæren – eller eletronisk 
+direkte til sekretær.
 ([5.2.3.1](../para5/#r5-2-3-1), [24.3.1](../para24/#r24-3-1), [25.2.1.2](../para25/#r25-2-1-2)).
 
 ### 7.3.3
@@ -101,17 +102,20 @@ endringer i oppstillingen uten at det foretas et vanlig spillerbytte.
 {: #r7-3-5}
 Uoverensstemmelser mellom spillernes posisjon på banen og oppstillingsslippen 
 behandles slik: ([24.3.1](../para24/#r24-3-1))
+
 #### 7.3.5.1
 {: #r7-3-5-1}
 dersom en slik uoverensstemmelse oppdages før settet har startet, skal spillerne flytte til 
 posisjonene angitt på oppstillingsslippen. Det er ingen sanksjon for dette.
 ([7.3.2](#r7-3-2))
+
 #### 7.3.5.2
 {: #r7-3-5-2}
 dersom en før settet har startet oppdager at en spiller på  banen ikke står på 
 oppstillingsslippen for dette settet, skal spilleren erstattes med spilleren som står på  
 oppstillingsslippen. Det er ingen sanksjon for dette.
 ([7.3.2](#r7-3-2))
+
 #### 7.3.5.3
 {: #r7-3-5-3}
 dersom treneren imidlertid ønsker å beholde spiller(e) på banen som ikke står på 
@@ -123,6 +127,7 @@ oppdaget senere, må laget som står feil sørge for at de står riktig oppstilt
 beholder poengene. I tillegg får de ett poeng og serven. Alle poeng skåret av laget som 
 sto feil oppstil blir kansellert fra det øyeblikk feilen oppsto.
 ([15.2.2](../para15/#r15-2-2))
+
 #### 7.3.5.4
 {: #r7-3-5-4}
 Dersom det oppdages at en spiller, som ikke er på spillerlisten i kampskjemaet, står på 
@@ -167,16 +172,20 @@ rekkefølgen omtalt i Regel 7.4.1.
 {: #r7-4-3}
 Spillernes posisjoner bestemmes og kontrolleres ut fra føttenes plassering på gulvet som 
 følger: (fig. 4)
+
 #### 7.4.3.1
 {: #r7-4-3-1}
-minst en del av en fot hos hver frontspiller må være nærmere midtlinjen enn føttene til 
-den tilsvarende bakspilleren;
+hver bakspiller må være på linje med eller ha minst en fot lengre fra midtlinjen enn den 
+fremste foten til den korresponderende frontspiller;
 ([1.3.3](../para1/#r1-3-3))
+
 #### 7.4.3.2
 {: #r7-4-3-2}
-minst en del av en fot hos hver høyre (venstre) spiller skal alltid være nærmere den 
-respektive sidelinjen enn føttene til midtspilleren i samme rad. 
+hver høyre (venstre) sidespiller må være like nært eller ha minst en del av foten 
+nærmere den høyre (venstre) sidelinjen enn foten som er lengst unna den høyre 
+(venstre) sidelinjen til de andre spillerne i den rekken.
 ([1.3.2](../para1/#r1-3-2))
+
 ### 7.4.4
 {: #r7-4-4}
 Når ballen er servet, kan spillerne forflytte seg omkring og innta en hvilken som helst 
@@ -188,8 +197,10 @@ posisjon på sin egen banehalvdel og i frisonen.
 
 ### 7.5.1
 {: #r7-5-1}
-Laget begår en oppstillingsfeil dersom en spiller ikke er i rett posisjon i det øyeblikk 
-ballen blir slått av serveren.
+Laget begår en oppstillingsfeil dersom en spiller ikke er i rett posisjon i det øyeblikket 
+ballen blir slått av serveren. Dersom en spiller er på banen på grunn av et ulovlig 
+spillerbytte, og spillet gjennopptas teller dette som en oppstillingsfeil med 
+konsekvensene av et ulovlig spillerbytte.
 ([7.3](#r7-3), [7.4](#r7-4)).
 
 ### 7.5.2
@@ -240,6 +251,7 @@ posisjon 1 roterer til posisjon 6, osv.
 En feil i rotasjonsordenen er begått når feil spiller server. Dette fører til følgende 
 konsekvenser:
 ([7.6.1](#r7-6-1), [12](../para12/#r12))
+
 #### 7.7.1.1
 {: #r7-7-1-1}
 sekretæren stopper spillet med signal (for eksempel buzzer), laget straffes ved at 
@@ -249,6 +261,7 @@ motstander får serve og et poeng;
 Dersom rotasjonsfeilen blir oppdaget etter en fullført ballveksling som startet med en 
 rotasjonsfeil, skal motstander tildeles bare ett poeng, uavhengig av resultatet av 
 ballvekslingen
+
 #### 7.7.1.2
 {: #r7-7-1-2}
 spillernes rotasjonsorden blir korrigert.

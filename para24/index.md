@@ -81,9 +81,9 @@ reglene.
 
 ### 24.2.10
 {: #r24-2-10}
-Andredommer kontrollerer lagsmedlemmene i straffeområdet og melder fra om 
-eventuell ukorrekt opptreden til førstedommeren.
-([1.4.5](../para1/#r1-4-5), [21.3.2](../para21/#r21-3-2))
+Dersom en reservedommer er oppnevnt så har denne ansvar for å kontrollere spillerne i 
+oppvarmingaområdet.
+([24.2.5](#r24-2-5))
 
 ## 24.3 Plikter
 {: #r24-3}
@@ -111,35 +111,36 @@ oppstillingsfeil hos det mottakende laget,
 
 #### 24.3.2.3
 {: #r24-3-2-3}
-Feil i nettberøring, primært på blokkers side og med antennen på sin side av banen 
+feil i nettberøring, primært (men ikke eksklusivt) på blokkers side og med
+antennen på sin side av banen.
 ([11.3.1](../para11/#r11-3-1))
 
 #### 24.3.2.4
 {: #r24-3-2-4}
-Fullført blokk av en bakspiller eller blokkforsøk av liberoen, eller en angrepsfeil av 
+fullført blokk av en bakspiller eller blokkforsøk av liberoen, eller en angrepsfeil av 
 bakspiller eller Libero, 
 ([13.3.3](../para13/#r13-3-3), [14.6.2](../para14/#r14-6-2), [14.6.6](../para14/#r14-6-6),
  [23.3.2.3](para23/#r23-3-2-3) d, e, g)
 
 #### 24.3.2.5
 {: #r24-3-2-5}
-Ballen berøring med en gjenstand utenfor banen,
+ballen berører en gjenstand utenfor banen,
 
 #### 24.3.2.6
 {: #r24-3-2-6}
-Ballens berøring av gulvet når førstedommeren ikke er i posisjon for å kunne se 
+ballen berører gulvet og førstedommeren ikke er i posisjon for å kunne se 
 berøringen.
 ([8.3](../para8/#r8-3))
 
 #### 24.3.2.7 
 {: #r24-3-2-7}
-Ballen passerer nettet fullstendig eller delvis utenfor passeringsområdet til mot 
+ballen passerer nettet fullstendig eller delvis utenfor passeringsområdet til mot 
 motstanders spilleflate eller berører antennen på sin banehalvdel.
 ([8.4.3](../para8/#r8-4-3), [8.4.4](../para8/#r8-4-4))
 
 #### 24.3.2.8
 {: #r24-3-2-8}
-Serven eller det tredje slaget passerer over eller utenfor antennen på andredommer sin 
+serven eller det tredje slaget passerer over eller utenfor antennen på andredommer sin 
 side av banen.
 ([23.3.3](../para23/#r23-3-3), [25.2.3.3](../para25/#r25-2-3-3))
 

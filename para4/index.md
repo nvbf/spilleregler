@@ -38,8 +38,8 @@ kampskjemaet.
 ### 4.1.3
 {: #r4-1-3}
 Bare de spillerne som er notert i kampskjemaet kan komme inn på banen og delta i 
-kampen. Når treneren og lagkapteinen har skrevet under i kampskjemaet, kan de 
-registrerte spillerne ikke endres.
+kampen. Når treneren og lagkapteinen har skrevet under i kampskjemaet (bekreftet
+laglisten på elektronisk kampskjema), kan de registrerte spillerne ikke endres.
 ([1](../para1/#r1), [5.1.1](../para5/#r5-1-1), [5.2.2](../para5/#r5-2-2))
 
 ## 4.2 Lagets plassering
@@ -67,19 +67,17 @@ Spillere som ikke er i spill kan varme opp uten baller på følgende måte:
 
 #### 4.2.3.1 
 {: #r4-2-3-1}
-Under spill: i oppvarmingsområdene;
+under spill: i oppvarmingsområdene;
 ([1.4.5](../para1/#r1-4-5), [8.1](../para8/#r8-1), fig. 1a, fig. 1b)
 
 #### 4.2.3.2
 {: #r4-2-3-2}
-i time-outer og tekniske time-outer: i frisonen bak sin egen banehalvdel;
+i time-outer: i frisonen bak sin egen banehalvdel;
 ([1.3.3](../para1/#r1-3-3), [15.4](../para15/#r15-4))
 
 ### 4.2.4
 {: #r4-2-4}
-I pausen mellom settene kan spillerne varme opp med ball i frisonen. Dersom det 
-er en utvidet pause mellom 2. og 3. sett kan spillerne i tillegg bruke egen 
-banehalvdel. 
+I pausen mellom settene kan spillerne varme opp med ball i egen frisone.
 ([18.1](../para18/#r18-1)) 
 
 ## 4.3 Utstyr
@@ -151,7 +149,12 @@ fordel.
 
 ### 4.5.2
 {: #r4-5-2}
-Spillerne kan bruke briller på egen risiko.
+Spillerne kan bruke briller og linser på egen risiko.
+
+### 4.5.3
+{: #r4-5-3}
+Kompresjonsputer (polstret enhet for å hindre skade) kan bæres for beskyttelse og 
+støtte. 
 
 ## Fotnoter
 

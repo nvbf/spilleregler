@@ -101,25 +101,19 @@ angrepslinja og baklinja, på samme side som spillerbenkene.
 ### 1.4.5 Oppvarmingsområde[^5]
 {: #r1-4-5}
 
-### 1.4.6 Sanksjonsområde             
-{: #r1-4-6}
-Sanksjonsområdene, i størrelse ca. 1 x 1 m, er plassert i kontrollområdet, utenfor 
-forlengelsen av hver baklinje. De er utstyrt med to stoler hver og kan avgrenses med 5 
-cm brede røde linjer.  
-(Fig. 1a, fig. 1b)
-
 ## 1.5 Temperatur
 {: #r1-5}
 Minimumstemperaturen skal ikke være under 10° C (50° F).[^6]
 
 ## 1.6 Belysning[^7]
 {: #r1-6}
+Belysningen skal være minst 300 lux.
 
 ## Fotnoter
 
 [^1]:
     I verdensomfattende FIVB-konkurranser skal frisonen være på minst 5 m fra
-    sidelinjene og 6,5 m fra baklinjene. Det fri spillerommet skal måle minimum
+    sidelinjene og 6,5 m fra baklinjene. Det frie spillerommet skal måle minimum
     12,5 m fra spilleflaten.
 
 [^2]:
@@ -128,21 +122,22 @@ Minimumstemperaturen skal ikke være under 10° C (50° F).[^6]
 
 [^3]:
     I verdensomfattende FIVB-konkurranser skal linjene være hvite. Andre farger,
-    og farger som er forskjellige fra hverandre, kreves for spillebanen og frisonen. (1.3)
+    og farger som er forskjellige fra hverandre, kreves for spillebanen og frisonen.
+    ([1.3](#r1-3))
 
 [^4]:
     I verdensomfattende FIVB-konkurranser forlenges angrepslinjen ved å legge
     til brudte linjer utenfor sidelinjene, med 15 cm lange linjer som er 5 cm brede,
     trukket med en avstand på 20 cm fra hverandre til en total lengde på 1,75 m. 
     «Trenerlinje» som markere treneren sin begrensning i forhold til banen,
-    er en brudt linje som strekker seg fra enden av angrepslinja til bak linja,
+    er en brutt linje som strekker seg fra enden av angrepslinja til bak linja,
     parallelt med sidelinjen og 1,75 meter fra denne.  Den består av 15 cm korte
     linjer med 20 cm mellomrom.
 
 [^5]:
     I verdensomfattende FIVB-konkurranser er oppvarmingsområder på ca. 3 x 3 m
     plassert i hjørnene av hallen på samme side som spillerbenkene og utenfor
-    friområdet (fig. 1).
+    friområdet (fig. 1), eller alternativt bak spillerbenkene.
 
 [^6]:
     I verdensomfattende FIVB-konkurranser skal maksimumstemperaturen ikke være

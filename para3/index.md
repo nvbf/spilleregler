@@ -41,6 +41,8 @@ tillatelse til noe annet.
 
 ## 3.3 Femballsystem[^1]
 {: #r3-3}
+I offisielle konkuranser skal 5 baller benyttes, og i dette tilfellet skal det
+benyttes 6 balltrillere.
 
 ## Fotnoter
 

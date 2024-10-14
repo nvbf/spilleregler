@@ -20,8 +20,7 @@ parent: Kapittel 4
 ### 11.1.1
 {: #r11-1-1}
 Ved blokkering kan en blokkspiller berøre ballen på motstandernes side av nettet, 
-forutsatt at han ikke hindrer motstandernes spill før eller under deres
-angrepsslag.
+forutsatt at han ikke hindrer motstandernes spill før deres angrepsslag.
 ([14.1](../para14/#r14-1), [14.3](../para14/#r14-3))
 
 ### 11.1.2
@@ -118,9 +117,9 @@ En spiller påvirker motstanders spill ved (bl.a) å:
 
 ([11.3.1](#r11-3-1), fig 11 (19))
 
-Enhver spiller i nærheten av ballen når den spilles, and som selv forsøker å spille den, er 
-å betrakte i en aksjon for å spille ballen, selv om det faktisk ikke er noen kontakt 
-mellom ball og spiller
+Enhver spiller i nærheten av ballen når den spilles, og som selv forsøker å
+spille den, er å betraktes å spille ballen, selv om det faktisk ikke er noen
+kontakt mellom ball og spiller.
 
 Det er ikke feil av en spiller å berøre nettet utenfor antennene (unntak 
 [9.1.3](../para9/#r9-1-3))
