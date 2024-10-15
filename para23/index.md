@@ -79,7 +79,7 @@ kontrollere banens, ballenes og annet utstyrs tilstand,
 
 #### 23.3.1.2
 {: #r23-3-12}
-utføre myntoppkast med lagkapteinene;
+utføre myntkast med lagkapteinene;
 ([7.1](../para7/#r7-1))
 
 #### 23.3.1.3

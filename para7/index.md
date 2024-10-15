@@ -14,24 +14,24 @@ parent: Kapittel 3
 # 7 Spillets struktur
 {: #r7 .no_toc}
 
-## 7.1 Myntoppkast
+## 7.1 Myntkast
 {: #r7-1}
 
-Før kampen foretar førstedommeren et myntoppkast for å avgjøre hvem som skal serve først 
+Før kampen foretar førstedommeren et myntkast for å avgjøre hvem som skal serve først 
 og hvilken side av nettet lagene skal spille på i det første settet.
 ([12.1.1](../para12/#r12-1-1)).
 
-Dersom det skal spilles et avgjørende sett, skal det foretas et nytt myntoppkast.
+Dersom det skal spilles et avgjørende sett, skal det foretas et nytt myntkast.
 ([6.3.2](../para6/#r6-3-2))
 
 ### 7.1.1
 {: #r7-1-1}
-Myntoppkastet finner sted i nærvær av de to lagenes kapteiner.
+Myntkastet finner sted i nærvær av de to lagenes kapteiner.
 ([5.1](../para5/#r5-1)).
 
 ### 7.1.2
 {: #r7-1-2}
-Den som vinner myntoppkastet velger:
+Den som vinner myntkastet velger:
 
 *enten*
 
