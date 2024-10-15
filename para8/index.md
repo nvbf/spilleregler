@@ -46,6 +46,13 @@ den delen av ballen som berører gulvet er fullstendig utenfor grenselinjene;
 den berører en gjenstand utenfor banen, taket eller en person som ikke er i spill; 
 (Fig. 12 (4))
 
+**Særnorsk tillegg:**
+
+Alle baller, med unntak av serven, skal spilles videre dersom de treffer taket
+eller andre gjenstander som er over bane- og friområde (spillområde).
+
+Noen spesifiseringer for dømming når ballen er ute.[^1]
+
 ### 8.4.3
 {: #r8-4-3}
 den berører antennene, snorer, stolper eller selve nettet utenfor sidebåndene; 
@@ -61,3 +68,19 @@ tilfellet Regel 10.1.2.
 {: #r8-4-5}
 den passerer fullstendig vertikalplanet under nettet.
 ([23.3.23](../para23/#r23-3-23), fig. 5, fig. 11 (22)).
+
+
+## Fotnoter:
+
+[^1]:
+    Ball i taket dømmes ute når:
+
+    - Ballen treffer taket eller en annen hindring over motstanderens spillområde.
+    - Ballen treffer taket eller en annen hindring over lagets spillområde og
+      passerer nettets vertikale linje og inn i motstanderens bane.
+    - Ballen treffer taket eller en annen hindring etter lagets tredje slag.
+    - Ballen treffer en nedsenket skillevegg. (Den er da å anse som en hvilken
+      som helst annen vegg).
+    - Ballen treffer taket tydelig utenfor lagets friområde.
+    - Dersom en ball blir liggende stille på et hinder som er over lagets
+      spillområde, skal det dømmes ball ut.
