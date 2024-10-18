@@ -70,7 +70,7 @@ den passerer fullstendig vertikalplanet under nettet.
 ([23.3.23](../para23/#r23-3-23), fig. 5, fig. 11 (22)).
 
 
-## Fotnoter:
+## Fotnoter
 
 [^1]:
     Ball i taket dømmes ute når:
