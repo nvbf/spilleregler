@@ -255,9 +255,11 @@ spillet.
 [^1]:
     I verdensomfattende FIVB-konkurranser for senior spillere kan FIVB redusere
     antall TO med en og antallet TTO i overenstemmelse med sponsorer, markedsføring og TV-avtaler.
+
 [^2]:
     I verdensomfattende FIVB-konkurranser er der obligatorisk å bruke en buzzer,
-    og deretter vise det riktige håndsignalet. 
+    og deretter vise det riktige håndsignalet.
+
 [^3]:
     I verdensomfattende FIVB-konkurranser nyttes nummererte skilt (inkludert
     nettbrett) for å gjøre spillerbyttene lettere.

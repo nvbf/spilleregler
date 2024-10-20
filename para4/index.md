@@ -163,6 +163,7 @@ støtte.
     maksimalt 14 spillere, og legen og fysioterapeuten være akkreditert av
     FIVB på forhånd. Team Manager kan ikke sitte bak spillerbenken i
     kontrollsonen.
+
 [^2]:
     I verdensomfattende FIVB og offisielle senior konkurranser,
     hvor det brukes en større spillerstall, kan nummereringen utvides.
