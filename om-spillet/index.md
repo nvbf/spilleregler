@@ -1,6 +1,7 @@
 ---
 title: Spillets særtrekk
 parent: Offisielle spilleregler for volleyball
+nav_order: 0
 ---
 
 # Spillets særtrekk

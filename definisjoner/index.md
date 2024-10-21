@@ -1,6 +1,7 @@
 ---
 title: Definisjoner
 parent: Offisielle spilleregler for volleyball
+nav_order: 30
 ---
 
 <details open markdown="block">
