@@ -1,6 +1,6 @@
 ﻿---
 title: 13 Angrepsslag
-parent: Kapittel 4
+parent: Kapittel 4 - Spillehandlinger
 ---
 <details open markdown="block">
   <summary>

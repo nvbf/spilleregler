@@ -1,6 +1,6 @@
 ﻿---
 title: 16 Forsinkelse av spillet
-parent: Kapittel 5
+parent: Kapittel 5 - Forsinkelser
 ---
 <details open markdown="block">
   <summary>

@@ -1,6 +1,6 @@
 ﻿---
 title: 28 Assisterende sekretær
-parent: Kapittel 8
+parent: Kapittel 8 - Dommerne
 ---
 <details open markdown="block">
   <summary>

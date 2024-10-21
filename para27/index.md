@@ -1,6 +1,6 @@
 ﻿---
 title: 27 Sekretæren
-parent: Kapittel 8
+parent: Kapittel 8 - Dommerne
 ---
 <details open markdown="block">
   <summary>

@@ -1,6 +1,6 @@
 ﻿---
 title: 20 Krav til opptreden
-parent: Kapittel 7
+parent: Kapittel 7 - Opptreden
 ---
 <details open markdown="block">
   <summary>

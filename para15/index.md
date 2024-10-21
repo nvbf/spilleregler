@@ -1,6 +1,6 @@
 ﻿---
 title: 15 Regulære spilleavbrytelser
-parent: Kapittel 5
+parent: Kapittel 5 - Forsinkelser
 ---
 <details open markdown="block">
   <summary>

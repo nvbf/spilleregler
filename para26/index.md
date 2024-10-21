@@ -1,6 +1,6 @@
 ﻿---
 title: 26 Reservedommer
-parent: Kapittel 8
+parent: Kapittel 8 - Dommerne
 ---
 <details open markdown="block">
   <summary>

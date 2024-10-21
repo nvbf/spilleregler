@@ -1,6 +1,6 @@
 ﻿---
 title: 5 Lagets ledere
-parent: Kapittel 2
+parent: Kapittel 2 - Deltakere
 ---
 
 <details open markdown="block">

@@ -1,6 +1,6 @@
 ﻿---
 title: 7 Spillets struktur
-parent: Kapittel 3
+parent: Kapittel 3 - Spillesystem
 ---
 <details open markdown="block">
   <summary>

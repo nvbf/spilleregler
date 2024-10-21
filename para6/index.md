@@ -1,6 +1,6 @@
 ﻿---
 title: 6 Å vinne et poeng, et sett og kampen
-parent: Kapittel 3
+parent: Kapittel 3 - Spillesystem
 ---
 <details open markdown="block">
   <summary>

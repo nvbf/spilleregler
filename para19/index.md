@@ -1,6 +1,6 @@
 ﻿---
 title: 19 Liberospilleren
-parent: Kapittel 6
+parent: Kapittel 6 - Liberospilleren
 ---
 <details open markdown="block">
   <summary>

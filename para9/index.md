@@ -1,6 +1,6 @@
 ﻿---
 title: 9 Å spille ballen
-parent: Kapittel 4
+parent: Kapittel 4 - Spillehandlinger
 nav_order: 9
 ---
 <details open markdown="block">

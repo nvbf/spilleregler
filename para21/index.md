@@ -1,6 +1,6 @@
 ﻿---
 title: 21 Ukorrekt opptreden og sanksjoner for det
-parent: Kapittel 7
+parent: Kapittel 7 - Opptreden
 ---
 <details open markdown="block">
   <summary>

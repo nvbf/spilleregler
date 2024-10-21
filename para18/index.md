@@ -1,6 +1,6 @@
 ﻿---
 title: 18 Intervall mellom settene og bytte av banehalvdel
-parent: Kapittel 5
+parent: Kapittel 5 - Forsinkelser
 ---
 <details open markdown="block">
   <summary>

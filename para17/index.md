@@ -1,6 +1,6 @@
 ﻿---
 title: 17 Spesielle spilleavbrytelser
-parent: Kapittel 5
+parent: Kapittel 5 - Forsinkelser
 ---
 <details open markdown="block">
   <summary>

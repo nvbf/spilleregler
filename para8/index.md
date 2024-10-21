@@ -1,6 +1,6 @@
 ﻿---
 title: 8 Spilletilstand
-parent: Kapittel 4
+parent: Kapittel 4 - Spillehandlinger
 nav_order: 8
 ---
 <details open markdown="block">

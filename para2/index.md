@@ -1,6 +1,6 @@
 ﻿---
 title: 2 Nett og stolper
-parent: Kapittel 1
+parent: Kapittel 1 - Anlegg og utstyr
 ---
 <details open markdown="block">
   <summary>

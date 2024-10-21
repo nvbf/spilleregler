@@ -1,6 +1,6 @@
 ﻿---
 title: 10 Ball ved nettet
-parent: Kapittel 4
+parent: Kapittel 4 - Spillehandlinger
 ---
 <details open markdown="block">
   <summary>
