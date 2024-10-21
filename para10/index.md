@@ -40,7 +40,7 @@ til sidene, av antennene og deres tenkte forlengelse;
 En ball som har passert nettets vertikalplan inn i motstandernes frisone helt eller delvis 
 gjennom det eksterne området (ikke passeringsområdet), kan spilles tilbake innenfor 
 lagets antall berøringer, forutsatt at:
-([9.1](../para9(#r9-1))
+([9.1](../para9/#r9-1))
 
 #### 10.1.2.1
 spilleren ikke berører motstandernes banehalvdel;

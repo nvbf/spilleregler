@@ -60,7 +60,6 @@ posisjon bak skal serve.
 
 ## 12.3 Klarsignal for serven
 {: #r12-3}
-Etter den første serven i et sett bestemmes hvem som skal serve ut fra følgende: (12.1)
 Førstedommeren gir klarsignal for serve etter å ha kontrollert at de to lagene er klare til 
 å spille og at serveren har ballen.
 ([12](#r12), fig. 11 (1,2))
