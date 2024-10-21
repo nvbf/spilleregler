@@ -1,6 +1,7 @@
 ---
-title: Reglenes og dømmingens filosofi
+title: Filosofi
 parent: Offisielle spilleregler for volleyball
+nav_order: 10
 ---
 
 <details open markdown="block">

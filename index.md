@@ -1,5 +1,6 @@
 ---
 title: Offisielle spilleregler for volleyball
+has_toc: false
 ---
 
 # Spilleregler for volleyball
@@ -11,7 +12,7 @@ Dette er den offisielle norsk oversettelsen av
 
 - [Spillets særtrekk](om-spillet/)
 - Del 1: [Reglenes og dømmingens filosofi](filosofi/)
-- Del 2 - Seksjon 1: Spillet
+- Del 2 - seksjon 1: Spillet
   - [Kapittel 1 - Anlegg og utstyr](kap1/)
   - [Kapittel 2 - Deltakere](kap2/)
   - [Kapittel 3 - Spillesystem](kap3/)

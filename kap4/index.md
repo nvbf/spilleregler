@@ -1,7 +1,6 @@
 ﻿---
 title: Kapittel 4
-parent: Offisielle spilleregler for volleyball
-nav_order: 24
+parent: "Del 2 - seksjon 1: Spillet"
 ---
  
 # Kapittel 4 - Spillehandlinger

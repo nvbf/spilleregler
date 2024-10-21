@@ -1,7 +1,6 @@
 ﻿---
 title: Kapittel 2
-parent: Offisielle spilleregler for volleyball
-nav_order: 22
+parent: "Del 2 - seksjon 1: Spillet"
 ---
  
 # Kapittel 2 - deltakere

@@ -1,7 +1,6 @@
 ﻿---
 title: Kapittel 3
-parent: Offisielle spilleregler for volleyball
-nav_order: 23
+parent: "Del 2 - seksjon 1: Spillet"
 ---
  
 # Kapittel 3 - Spillesystem

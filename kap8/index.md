@@ -1,7 +1,6 @@
 ﻿---
 title: Kapittel 8
-parent: Offisielle spilleregler for volleyball
-nav_order: 28
+parent: "Del 2 - seksjon 2: Dommerne"
 ---
  
 # Kapittel 8 - Dommerne

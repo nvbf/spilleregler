@@ -1,7 +1,6 @@
 ﻿---
 title: Kapittel 1
-parent: Offisielle spilleregler for volleyball
-nav_order: 21
+parent: "Del 2 - seksjon 1: Spillet"
 ---
  
 # Kapittel 1 - anlegg og utstyr
