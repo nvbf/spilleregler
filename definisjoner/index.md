@@ -1,5 +1,5 @@
 ---
-title: Definisjoner
+title: "Del 3: Definisjoner"
 parent: Offisielle spilleregler for volleyball
 nav_order: 30
 ---
@@ -43,9 +43,9 @@ det til stolpene, på sidene av stolpene, og nederst av spillflaten.
 
 Passeringsområdet er definert av:
 
-– Den horisontale stripen på toppen av nettet
-– Antennene og deres forlengelse
-– Taket
+- Den horisontale stripen på toppen av nettet
+- Antennene og deres forlengelse
+- Taket
 
 Ballen må krysse til motstanderens BANE gjennom kryssrommet.
 
@@ -138,10 +138,10 @@ spiller tar hans/hennes plass.
 
 Det er fire tilfeller, når spillhandlingen anses som lagets første treff:
 
-– mottak av serve
-– mottak av et angrep fra motstanderlaget
-– spille ballen som spretter fra egen blokk
-– spille ballen som spretter fra motstanderens blokk
+- mottak av serve
+- mottak av et angrep fra motstanderlaget
+- spille ballen som spretter fra egen blokk
+- spille ballen som spretter fra motstanderens blokk
 
 ## Protokoll
 

@@ -1,5 +1,5 @@
 ---
-title: Filosofi
+title: "Del 1: Filosofi"
 parent: Offisielle spilleregler for volleyball
 nav_order: 10
 ---
