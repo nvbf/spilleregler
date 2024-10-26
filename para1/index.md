@@ -92,9 +92,9 @@ I dybde strekker servefeltet seg til enden av frisonen.
 Spillerbyttesonen er begrenset av fortsettelsen av begge angrepslinjene opp til 
 sekretærbordet. ([1.3.4](#r1-3-4), fig. 1b)
 
-### 1.4.4 Liberoskiftesonen
+### 1.4.4 Liberobyttesonen
 {: #r1-4-4}
-Libreoskiftesonen er den delen av friområdet som ligger mellom forlengelsen av 
+Libreobyttesonen er den delen av friområdet som ligger mellom forlengelsen av 
 angrepslinja og baklinja, på samme side som spillerbenkene.
 ([7.5.1](../para7/#r7-5-1), [19.3.2.4](../para19/#r19-3-2-4), fig. 1b)
 
