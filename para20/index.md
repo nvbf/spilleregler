@@ -19,7 +19,7 @@ parent: Kapittel 7 - Opptreden
 
 ### 20.1.1
 {: #r20-1-1}
-Deltakerne skal kjenne de «Spilleregler for volleyball» og overholde dem.
+Deltakerne skal kjenne «De offisielle spillereglene for volleyball» og overholde dem.
 
 ### 20.1.2
 {: #r20-1-2}
