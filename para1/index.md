@@ -129,7 +129,7 @@ Belysningen skal være minst 300 lux.
     I verdensomfattende FIVB-konkurranser forlenges angrepslinjen ved å legge
     til brudte linjer utenfor sidelinjene, med 15 cm lange linjer som er 5 cm brede,
     trukket med en avstand på 20 cm fra hverandre til en total lengde på 1,75 m. 
-    «Trenerlinje» som markere treneren sin begrensning i forhold til banen,
+    «Trenerlinje» som markerer treneren sin begrensning i forhold til banen,
     er en brutt linje som strekker seg fra enden av angrepslinja til bak linja,
     parallelt med sidelinjen og 1,75 meter fra denne.  Den består av 15 cm korte
     linjer med 20 cm mellomrom.
