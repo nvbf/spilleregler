@@ -48,7 +48,7 @@ banehalvdel.
 
 Den som taper får det gjenstående alternativet.
 
-## 7.2 Offisiell opvarming
+## 7.2 Offisiell oppvarming
 {: #r7-2}
 
 ### 7.2.1
@@ -64,7 +64,7 @@ eller 5 minutter hver.
 
 ### 7.2.3
 {: #r7-2-3}
-Dersom lagene har separat oppvaring på nettet, skal det laget som starter å serve også 
+Dersom lagene har separat oppvarming på nettet, skal det laget som starter å serve også 
 være det første laget med nettoppvarming
 
 ## 7.3 Lagets startoppstilling
@@ -82,7 +82,7 @@ rotasjonsorden skal beholdes gjennom hele settet.
 {: #r7-3-2}
 Før starten på hvert sett skal treneren levere startoppstillingen for sitt lag på en 
 oppstillingsslipp eller via nettbrett dersom dette benyttes. Oppstillingsslippen leveres 
-korrekt utfylt og underskrevet til andredommeren eller sekretæren – eller eletronisk 
+korrekt utfylt og underskrevet til andredommeren eller sekretæren – eller elektronisk 
 direkte til sekretær.
 ([5.2.3.1](../para5/#r5-2-3-1), [24.3.1](../para24/#r24-3-1), [27.2.1.2](../para27/#r27-2-1-2)).
 

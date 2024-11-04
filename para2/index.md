@@ -92,7 +92,7 @@ Alt tilleggsutstyr blir regulert gjennom FIVB’s bestemmelser.
 
 [^1]:
     I verdensomfattende FIVB-konkurranser, regulert av spesifikke konkurranse 
-    regulativ, kan maskestørrelsen modifiseres for å fjøre det lettere med
+    regulativ, kan maskestørrelsen modifiseres for å gjøre det lettere med
     markedsføring i henhold til avtaler.
 
 [^2]:

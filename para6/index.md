@@ -61,7 +61,7 @@ spillehandlinger som resulterer i et poeng.
 Dette inkluderer:
 
 - Tildeling av en advarsel (rødt kort)
-- Tap av serve ved at serven blir tatt for sent (8-sekunderes regelen) ([12.4.4](../para12/#r12.4.4))
+- Tap av serve ved at serven blir tatt for sent (8-sekunders regelen) ([12.4.4](../para12/#r12.4.4))
 
 #### 6.1.3.1
 {: #r6-1-3-1}
