@@ -80,13 +80,13 @@ nettets overkant dersom denne ballen er spilt med fingerslag fra en libero som b
 seg i frontsonen eller dens forlengelse. Ballen kan angripes fritt dersom liberoen utfører 
 dette slaget fra bak frontsonen.
 
-### 19.3.2 Liberoskifter
+### 19.3.2 Liberobytteer
 {: #r19-3-2}
 
 #### 19.3.2.1
 {: #r19-3-2-1}
-Skifte av spillere som involverer liberoen regnes ikke som et spillerbytte. 
-Disse skiftene er ubegrenset i antall, men det må være en ballveksling mellom dem. 
+Bytte av spillere som involverer liberoen regnes ikke som et spillerbytte. 
+Disse byttene er ubegrenset i antall, men det må være en ballveksling mellom dem. 
 (Unntatt dersom en straff gir tvungen rotasjon av libero til posisjon 4, eller den aktive 
 libero blir ute av stand til å spille, og ballvekslingen ikke kan gjennomføres)
 
