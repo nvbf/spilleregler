@@ -19,9 +19,9 @@ parent: Kapittel 4 - Spillehandlinger
 
 ### 14.1.1
 {: #r14-1-1}
-Blokkering er handlingen til spillere nær nettet for å stanse ballen som kommer fra 
-motstanderne ved å rekke armene høyere enn nettets overkant, uavhengig av i hvilken 
-høyde ballen treffer. Bare frontspillere kan fullføre en blokk, men i det øyeblikket 
+Blokkering er handlingen utført av spillere nær nettet for å stanse ballen som kommer fra 
+motstanderne ved å strekke seg høyere enn nettets overkant, uavhengig av i hvilken 
+høyde ballkontakten skjer. Bare frontspillere kan fullføre en blokk, men i det øyeblikket 
 ballen berøres må en del av kroppen være over toppen av nettet.
 ([7.4.1.1](../para7/#r7-4-1-1))
 
