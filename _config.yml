@@ -18,7 +18,7 @@ aux_links:
     - "https://volleyball.no"
 
 gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "Forbedre spillereglene vha. GitHub"
+gh_edit_link_text: "Rediger denne siden på GitHub"
 gh_edit_repository: "https://github.com/nvbf/spilleregler"
 gh_edit_branch: "main"
-gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
+gh_edit_view_mode: "edit" # "tree" or "edit" if you want the user to jump into the editor immediately

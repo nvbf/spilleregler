@@ -32,7 +32,7 @@ sitte på spillerbenken.
 ### 4.1.2
 {: #r4-1-2}
 En av spillerne er lagkapteinen, og han/hun skal markeres i kampskjemaet.
-([5.1](../para5/#r5-1)
+([5.1](../para5/#r5-1))
 
 ### 4.1.3
 {: #r4-1-3}
