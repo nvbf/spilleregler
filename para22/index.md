@@ -84,7 +84,7 @@ bare hvilket lag som skal serve.
 
 #### 22.2.3.3
 {: #r22-2-3-3}
-I tilfelle av en angrepsfeil eller blokk feil av bakspiller eller Libero, viser både første og 
+I tilfelle av en angrepsfeil eller blokkeringsfeil av bakspiller eller Libero, viser både første og 
 andredommer i henhold til [22.2.3.1 ](#r22-2-3-1 ) og [22.2.3.2](#r22-2-3-2) ovenfor.
 ([12.2.2](../para12/#r12-2-2), [13.3.3](../para13/#r13-3-3), [13.3.5](../para13/#r13-3-5),
  [19.3.1.2](../para19/#r19-3-1-2), [23.3.2.3](../para23/#r23-3-2-3) d og e)
