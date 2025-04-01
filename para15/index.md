@@ -56,7 +56,7 @@ avbruddet, før neste ballveksling er over.
 
 ### 15.3.1
 {: #r15-3-1}
-Treneren kan anmode om regulære spilleavbrytelser. Om treneren er fraværende kan regulære spilleavbrytelser anmodes av assistenttreneren eller av kampkapteinen, og bare av disse.
+Treneren kan be om regulære spilleavbrytelser. Om treneren er fraværende kan assistenttreneren eller kampkapteinen be om regulære spilleavbrytelser. Ingen andre kan be om regulære spilleavbrytelser.
 ([5.1.2](../para5/#r5-1-2), [5.2](../para5/#r5-2), [15](#r15))
 
 ### 15.3.2
