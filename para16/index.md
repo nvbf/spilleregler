@@ -50,11 +50,11 @@ og omfatter blant annet:
 ### 16.2.1
 {: #r16-2-1}
 «Tilsnakk for forsinkelse» (delay warning) eller «advarsel for forsinkelse» (delay 
-penalty) er lagssanksjoner
+penalty) er lagssanksjoner.
 
 #### 16.2.1.1
 {: #r16-2-1-1}
-Sanksjon for forsinkelse gjelder for hele kampen.
+Sanksjoner for forsinkelse gjelder for hele kampen.
 ([6.3](../para6/#r6-3))
 
 #### 16.2.1.2
@@ -64,7 +64,7 @@ Alle sanksjoner for forsinkelser skrives inn i kampskjemaet.
 
 ### 16.2.2
 {: #r16-2-2}
-Første forsinkelse av et lag i et sett sanksjoneres med «tilsnakk for forsinkelse». 
+Første forsinkelse av et lag i en kamp sanksjoneres med «tilsnakk for forsinkelse». 
 ([4.1.1](../para4/#r4-1-1), fig. 11 (25))
 
 ### 16.2.3
