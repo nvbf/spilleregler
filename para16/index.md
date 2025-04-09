@@ -50,7 +50,7 @@ og omfatter blant annet:
 ### 16.2.1
 {: #r16-2-1}
 «Tilsnakk for forsinkelse» (delay warning) eller «advarsel for forsinkelse» (delay 
-penalty) er lagssanksjoner.
+penalty) er lagsanksjoner.
 
 #### 16.2.1.1
 {: #r16-2-1-1}
