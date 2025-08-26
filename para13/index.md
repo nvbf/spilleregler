@@ -106,5 +106,5 @@ fullstendig høyere enn nettets overkant.
 ### 13.3.6
 {: #r13-3-6}
 En spiller fullfører et angrepsslag fra høyere enn nettets overkant når ballen kommer fra 
-fingerslag av en libero som befinner seg i frontsonen. 
+fingerslag, med en eller to hender, av en libero som befinner seg i frontsonen. 
 ([19.3.1.4](../para19/#r19-3-1-4), [23.3.2.3](../para23/#r23-3-2-3) e, fig. 11 (21))
