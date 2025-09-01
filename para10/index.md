@@ -37,25 +37,29 @@ til sidene, av antennene og deres tenkte forlengelse;
 
 ### 10.1.2
 {: #r10-1-2}
-En ball som har passert nettets vertikalplan inn i motstandernes frisone helt eller delvis 
-gjennom det eksterne området (ikke passeringsområdet), kan spilles tilbake innenfor 
-lagets antall berøringer, forutsatt at:
+En ball som kommer fra lagets første berøring og som har passert nettets vertikalplan
+inn i motstandernes frisone helt eller delvis gjennom det eksterne området, kan spilles
+tilbake innenfor lagets antall berøringer, forutsatt at:
 ([9.1](../para9/#r9-1))
 
 #### 10.1.2.1
-spilleren ikke berører motstandernes banehalvdel;
+spilleren ikke berører motstandernes banehalvdel (unntatt regel [11.2.2.1](../para11/#r11-2-2-1))
 ([11.2.2](../para11/#r11-2-2))
 
 #### 10.1.2.2
-ballen, når den spilles tilbake, passerer vertikalplanet gjennom nettet gjennom det 
-eksterne området på samme side av banen.
-
+ballen, når den spilles tilbake, passerer nettets vertikalplan helt eller delvis gjennom det
+eksterne området på samme side av banen. Hvis ikke, regnes ballen som ut.
 Motstanderlaget kan ikke hindre en slik handling.
+
+#### 10.1.2.3
+ballen, som sendes mot motstanders frisone helt eller delvis gjennom det
+eksterne området, som kommer fra lagets andre eller tredje slag, kan ikke bli spilt
+og blir dømt ut i det øyeblikk den har passert nettets vertikalplan.
 
 ### 10.1.3
 {: #r10-1-3}
-En ball på vei mot motstanders banehalvdel under nettet, er i spill til den helt har passert 
-vertikalplanet gjennom nettet.
+En ball på vei mot motstanders banehalvdel under nettet, er i spill til den har
+helt passert nettets vertikalplan.
 ([23.3.2.3](../para23/#r23-3-2-3) f)
 
 ## 10.2 Ball som berører nettet

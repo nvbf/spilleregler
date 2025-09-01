@@ -42,6 +42,7 @@ Inntrenging på motstandernes banehalvdel, forbi midtlinjen:
 ([1.3.3](../para1/#r1-3-3), fig. 11 (22))
 
 ##### 11.2.2.1 
+{: #r11-2-2-1}
 det er tillatt å berøre motstandernes banehalvdel med en fot (føttene), forutsatt at en del 
 av foten (føttene) enten berører eller befinner seg direkte over midtlinjen.
 ([1.3.3](../para1/#r1-3-3))
