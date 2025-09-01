@@ -103,17 +103,26 @@ En serve som er utført før dommeren har blåst skal kanselleres og tas på nyt
 ### 12.5.1
 {: #r12-5-1}
 Spillerne på det servende laget må ikke ved hjelp av skjerming hindre motstanderne fra 
-å se serven og ballbanen.
+å se serven (selve slaget) og ballbanen.
 ([12.5.2](#r12-5-2))
 
 ### 12.5.2
 {: #r12-5-2}
-En spiller, eller en gruppe spillere, på det servende laget utfører en skjerming dersom 
-han/hun/de vifter med armene, hopper eller forflytter seg sidelengs mens serven blir 
-utført, eller ved å stå samlet slik at de dekker både serven (selve slagøyeblikket) og 
-ballbanen til den når vertikalplanet gjennom nettet. Skulle en av de to være synlig for 
-det mottakende lag er det ikke en skjerm.
+En spiller eller en gruppe spillere på det servende laget utfører en skjerm ved
+å vifte med armene, hoppe eller forflytte seg sidelengs mens serven blir
+utført, eller ved å stå samlet, slik at både serven (selve slaget) og
+ballbanen er skjult til ballen når nettets vertikalplan. Skulle en av de to være
+synlig for det mottakende lag er det ikke en skjerm.
 ([12.4](#r12-4), fig. 6) 
+
+### 12.5.3
+{: #r12-5-3}
+Det er forbudt for enhver spiller på det servende laget å ha hendene høyere enn
+hodet når serven går og til ballen har passert forbi nettet.
+([12.4](#r12-4), [12.5.2](#r12-5-2), fig. 6, fig. 11 (12))
+
+Førstedommer har rett til å advare (anbefale) et lag via kampkapteinen,
+dersom han/hun mistenker at det er bevisst skjerming.
 
 ## 12.6 Servefeil
 {: #r12-6}
