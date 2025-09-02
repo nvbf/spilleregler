@@ -110,9 +110,9 @@ Spillerne på det servende laget må ikke ved hjelp av skjerming hindre motstand
 {: #r12-5-2}
 En spiller eller en gruppe spillere på det servende laget utfører en skjerm ved
 å vifte med armene, hoppe eller forflytte seg sidelengs mens serven blir
-utført, eller ved å stå samlet, slik at både serven (selve slaget) og
-ballbanen er skjult til ballen når nettets vertikalplan. Skulle en av de to være
-synlig for det mottakende lag er det ikke en skjerm.
+utført, eller ved å stå samlet, slik at **både** serven (selve slaget) og
+ballbanen er skjult til ballen når nettets vertikalplan.
+Om serve eller ballbane er synlig for mottakende lag, er det ikke en skjerm.
 ([12.4](#r12-4), fig. 6) 
 
 ### 12.5.3
