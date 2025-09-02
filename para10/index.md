@@ -53,7 +53,7 @@ Motstanderlaget kan ikke hindre en slik handling.
 
 #### 10.1.2.3
 En ball som sendes mot motstanders frisone helt eller delvis gjennom det
-eksterne området, som kommer fra lagets andre eller tredje slag, kan ikke bli spilt
+eksterne området, som kommer fra lagets andre eller tredje slag, kan ikke spilles
 tilbake og blir dømt ut i det øyeblikk den har passert nettets vertikalplan.
 
 ### 10.1.3
