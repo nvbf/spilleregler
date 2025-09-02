@@ -116,5 +116,5 @@ forskjellige deler av kroppen etter hverandre.
 ([9.2.3](#r9-2-3), fig. 11 (17))
 
 Unntak: Når man spiller ballen innad i laget, med fingerslag, så er
-flere berøringer med ballen i hendene tillat, forutsatt at berøringene
+flere berøringer med ballen i hendene tillatt, forutsatt at berøringene
 skjer i løpet av én handling.
