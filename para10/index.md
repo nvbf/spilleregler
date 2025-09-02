@@ -52,7 +52,7 @@ eksterne området på samme side av banen. Hvis ikke, regnes ballen som ut.
 Motstanderlaget kan ikke hindre en slik handling.
 
 #### 10.1.2.3
-ballen, som sendes mot motstanders frisone helt eller delvis gjennom det
+En ball som sendes mot motstanders frisone helt eller delvis gjennom det
 eksterne området, som kommer fra lagets andre eller tredje slag, kan ikke bli spilt
 og blir dømt ut i det øyeblikk den har passert nettets vertikalplan.
 
