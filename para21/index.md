@@ -55,13 +55,13 @@ Avhengig av hvor alvorlig den ukorrekte opptreden er etter førstedommerens
 bedømming, er sanksjonstiltakene som gis og føres inn i kampskjemaet: 
 ([21.2](#r21-2), [27.2.2.6](../para27/#r27-2-2-6), fig. 9)
 
-### 21.3.1 Advarsel (penalty)
+### 21.3.1 Straff
 {: #r21-3-1}
 Den første simple opptreden av et hvilket som helst lagsmedlem sanksjoneres med at 
 motstanderen får serven og et poeng.
 ([4.1.1](../para4/#r4-1-1), [21.2.1](#r21-2-1), fig. 11 (6))
 
-### 21.3.2 Utvisning (expulsion)
+### 21.3.2 Utvisning
 {: #r21-3-2}
 (Fig. 11 (7))
 
@@ -88,7 +88,7 @@ En andregangs simpel opptreden av samme lagsmedlem i samme kamp sanksjoneres
 med utvisning og får ingen andre konsekvenser.
 ([4.1.1](../para4/#r4-1-1), [21.2.1](#r21-2-1))
 
-### 21.3.3 Diskvalifikasjon (disqualification):
+### 21.3.3 Diskvalifikasjon
 {: #r21-3-3}
 
 #### 21.3.3.1
@@ -148,8 +148,8 @@ med Regel 21.3 og sanksjonen hører hjemme under det påfølgende settet.
 {: #r21-6}
 (Fig. 11 (6, 7, 8))
 
-| Tilsnakk (warning):                  | 1. steg: verbal tilsnakk                               |
-|                                      | 2. steg: gult kort                ([21.1](#r21-1))     |
-| Advarsel (penalty):                  | rødt kort                         ([21.3.1](#r21-3-1)) |
-| Utvisning (expulsion):               | gult og rødt kort i samme hånd    ([21.3.2](#r(21-3-2))|
-| Diskvalifikasjon (disqualification): | gult og rødt kort i hver sin hånd ([21.3.3](#r21-3-3)) |
+| Advarsel:                | 1. steg: verbal tilsnakk                               |
+|                          | 2. steg: gult kort                ([21.1](#r21-1))     |
+| Straff:                  | rødt kort                         ([21.3.1](#r21-3-1)) |
+| Utvisning:               | gult og rødt kort i samme hånd    ([21.3.2](#r(21-3-2))|
+| Diskvalifikasjon:        | gult og rødt kort i hver sin hånd ([21.3.3](#r21-3-3)) |

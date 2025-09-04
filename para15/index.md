@@ -48,7 +48,7 @@ utvisning/diskvalifikasjon. ([15.5.2](#r15-5-2), [15.7](#r15-7), [15.8](#r15-8))
 ### 15.2.4
 {: #r15-2-4}
 Det er ikke tillatt å be om en regulær spilleavbrytelse etter å ha fått avslått
-en forespørsel og fått tilsnakk for forsinkelse (delay warning) ved den samme
+en forespørsel og fått advarsel for forsinkelse ved den samme
 avbruddet, før neste ballveksling er over.
 
 ## 15.3 Anmodning om regulære avbrytelser
@@ -204,7 +204,7 @@ ved å bruke enten en buzzer eller fløyte. 2. dommer skal autorisere spillerbyt
 Dersom et lag ønsker å foreta mer enn ett bytte, må alle aktuelle spillere gå inn i 
 spillerbyttesonen samtidig. I dette tilfellet skal byttene skje i rekkefølge, det ene par 
 spillere etter det andre. Dersom ett av byttene er ureglementert, skal dette (og bare dette) 
-avvises og laget gis «tilsnakk for forsinkelse».
+avvises og laget gis «advarsel for forsinkelse».
 ([1.4.3](../para1/#r1-4-3), [15.2.2](#r15-2-2))
 
 ## 15.11 Ukorrekte anmodninger
