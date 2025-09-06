@@ -211,7 +211,7 @@ har laget rett til å spille med kun en libero og dette blir da den aktive
 liberoen.
 ([4.1.1](../para4/#r4-1-1), [19.1.1](#r19-1-1))
 
-Det er ikke tillat å utnevne en ny libero, såfremt ikke den siste liberoen blir ute av stand 
+Det er ikke tillatt å utnevne en ny libero, såfremt ikke den siste liberoen blir ute av stand 
 til å spille.
 ([19.4](#r19-4))
 
