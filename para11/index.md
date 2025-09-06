@@ -88,7 +88,7 @@ regnes som feil.
 
 ### 11.4.1
 {: #r11-4-1}
-En spiller berører ballen eller en motstander i motstandernes rom før motstandernes angrepslag.
+En spiller berører ballen eller en motstander i motstandernes rom før motstandernes angrepsslag.
 ([11.1.1](#r11-1-1), fig. 11 (20))
 
 ### 11.4.2 
