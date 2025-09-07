@@ -43,15 +43,18 @@ tilbake innenfor lagets antall berøringer, forutsatt at:
 ([9.1](../para9/#r9-1))
 
 #### 10.1.2.1
+{: #r10-1-2-1}
 spilleren ikke berører motstandernes banehalvdel (unntatt regel [11.2.2.1](../para11/#r11-2-2-1))
 ([11.2.2](../para11/#r11-2-2))
 
 #### 10.1.2.2
+{: #r10-1-2-2}
 ballen, når den spilles tilbake, passerer nettets vertikalplan helt eller delvis gjennom det
 eksterne området på samme side av banen. Hvis ikke, regnes ballen som ut.
 Motstanderlaget kan ikke hindre en slik handling.
 
 #### 10.1.2.3
+{: #r10-1-2-3}
 En ball som sendes mot motstanders frisone helt eller delvis gjennom det
 eksterne området, som kommer fra lagets andre eller tredje slag, kan ikke spilles
 tilbake og blir dømt ut i det øyeblikk den har passert nettets vertikalplan.
