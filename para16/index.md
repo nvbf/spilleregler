@@ -49,8 +49,7 @@ og omfatter blant annet:
 
 ### 16.2.1
 {: #r16-2-1}
-«Tilsnakk for forsinkelse» (delay warning) eller «advarsel for forsinkelse» (delay 
-penalty) er lagsanksjoner.
+«Advarsel for forsinkelse» eller «straff for forsinkelse» er lagsanksjoner.
 
 #### 16.2.1.1
 {: #r16-2-1-1}
@@ -64,14 +63,14 @@ Alle sanksjoner for forsinkelser skrives inn i kampskjemaet.
 
 ### 16.2.2
 {: #r16-2-2}
-Første forsinkelse av et lag i en kamp sanksjoneres med «tilsnakk for forsinkelse». 
+Første forsinkelse av et lag i en kamp sanksjoneres med «advarsel for forsinkelse». 
 ([4.1.1](../para4/#r4-1-1), fig. 11 (25))
 
 ### 16.2.3
 {: #r16-2-3}
 Den andre og påfølgende forsinkelser av enhver art av en hvilken som helst spiller eller 
 annet lagsmedlem på samme lag i samme kamp utgjør en feil, og sanksjoneres med 
-«advarsel for forsinkelse»: motstander får serven og et poeng.
+«straff for forsinkelse»: motstander får serven og et poeng.
 ([6.1.3](../para6/#r6-1-3), fig. 11 (25))
 
 ### 16.2.4

@@ -109,14 +109,14 @@ Skifter skal bare finne sted når ballen er død og før fløytesignalet for ser
 {: #r19-3-2-5}
 Et skifte som blir foretatt etter at fløytesignalet for serve er gått, men før serveslaget, 
 skal ikke avvises, men etter endt rally skal kampkapteinen informeres om at dette er en 
-ikke lovlig prosedyre og eventuelle gjentagelser vil føre til tilsnakk for forsinkelse. 
+ikke lovlig prosedyre og gjentagelser vil føre til sanksjon for forsinkelse. 
 ([12.3](../para12/#r12-3), [12.4](../para12/#r12-4))
 
 #### 19.3.2.6
 {: #r19-3-2-6}
 Ved påfølgende sene skifter skal spillet stoppes øyeblikkelig og det skal tildeles en 
 sanksjon for forsinkelse av spillet. Hvilket lag som server deretter vil avgjøres av nivå 
-på sanksjonen (tilsnakk eller advarsel).
+på sanksjonen (advarsel eller straff).
 ([16.2](../para16/#r16-2)) 
 
 #### 19.3.2.7
