@@ -19,7 +19,7 @@ nav_order: 30
 ## Konkurranse-/kontrollområde
 
 Konkurranse-/kontrollområdet er en korridor rundt spillbanen og friområdet,
-som inkluderer alle rom opp til de ytre barrierene eller avgrensingsgjerdet.
+som inkluderer alle områder opp til de ytre barrierene eller avgrensingsgjerdet.
 Se figur 1a.
 
 ## Soner
@@ -29,29 +29,29 @@ definert for et spesifikt formål (eller med spesielle restriksjoner) innenfor
 regelteksten. Disse inkluderer: Frontsone, serveområde, innbyttersone, 
 friområde, bakre sone og libero-erstatningssone.
 
-## Områder
+## Nedre område
+{: #def-nedre-omrade}
 
-Dette er seksjoner av gulvet UTENFOR friområdet, identifisert av reglene som
-å ha en spesifikk funksjon. Disse inkluderer: oppvarmingsområde.
-
-## Nedre rom
-
-Dette er rommet definert på øvre del av nettets bunn og snoren som forbinder
+Dette området er i det vertikale planet av nettet definert
+øverst av nettets bunn og snoren som forbinder
 det til stolpene, på sidene av stolpene, og nederst av spillflaten.
 
-## Passeringsområdet
+## Passeringsområde
+{: #def-passeringsomrade}
 
-Passeringsområdet er definert av:
+Passeringsområdet er i det vertikale planet av nettet definert av:
 
-- Den horisontale stripen på toppen av nettet
+- Det horisontale båndet på toppen av nettet
 - Antennene og deres forlengelse
 - Taket
 
-Ballen må krysse til motstanderens BANE gjennom kryssrommet.
+Ballen må passere gjennom dette området til motstanderens bane.
 
-## Eksternt rom
+## Eksternt område
+{: #def-ekstern-omrade}
 
-Det eksterne rommet er i den vertikale planet av nettet utenfor kryss- og nedre rom.
+Det eksterne området er i det vertikale planet av nettet utenfor passeringsområdet
+og det nedre området.
 
 ## Innbyttersone
 
