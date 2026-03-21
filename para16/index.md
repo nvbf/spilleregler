@@ -38,7 +38,7 @@ og omfatter blant annet:
 ### 16.1.4
 {: #r16-1-4}
 å gjenta ukorrekt anmodning; 
-([15.11.3](../para15/#r15-11-3))
+([15.11.2.1](../para15/#r15-11-2-1))
 
 ### 16.1.5
 {: #r16-1-5}

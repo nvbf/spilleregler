@@ -67,7 +67,7 @@ tilfellet Regel 10.1.2.
 ### 8.4.5
 {: #r8-4-5}
 den passerer fullstendig vertikalplanet under nettet.
-([23.3.23](../para23/#r23-3-23), fig. 5, fig. 11 (22)).
+([23.3.2.3](../para23/#r23-3-2-3), fig. 5, fig. 11 (22)).
 
 
 ## Fotnoter
