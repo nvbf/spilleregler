@@ -47,7 +47,7 @@ assistere andredommer med å holde frisonen «ren»;
 
 ### 26.2.6
 {: #r26-2-6}
-assistere andredommer med å få utviste/dikvalifierte lagsmedlemmer ut av garderoben
+assistere andredommer med å få utviste/diskvalifiserte lagsmedlemmer til garderoben
 
 ### 26.2.7
 {: #r26-2-7}

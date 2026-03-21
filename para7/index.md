@@ -125,16 +125,16 @@ notert i kampskjemaet.
 Dersom uoverensstemmelsen mellom spillernes posisjon og oppstillingsslippen blir 
 oppdaget senere, må laget som står feil sørge for at de står riktig oppstilt. Motstanderen 
 beholder poengene. I tillegg får de ett poeng og serven. Alle poeng skåret av laget som 
-sto feil oppstil blir kansellert fra det øyeblikk feilen oppsto.
+sto feil oppstilt blir kansellert fra det øyeblikk feilen oppsto.
 ([15.2.2](../para15/#r15-2-2))
 
 #### 7.3.5.4
 {: #r7-3-5-4}
 Dersom det oppdages at en spiller, som ikke er på spillerlisten i kampskjemaet, står på 
 banen, får motstanderen ett poeng og serven. Laget som har en gjort feilen taper alle 
-poeng med denne spilleren på banene og/eller sett (0:25, om nødvendig) som laget har 
-vunnet med denne spilleren på banene. De må også levere en ny oppstillingsslipp og 
-sette en registrert spiller på banene.
+poeng med denne spilleren på banen og/eller sett (0:25, om nødvendig) som laget har 
+vunnet med denne spilleren på banen. De må også levere en ny oppstillingsslipp og 
+sette en registrert spiller på banen.
 
 ## 7.4 Posisjoner
 {: #r7-4}

@@ -130,7 +130,7 @@ spillerbytte, men skal noteres i kampskjemaet som en av det totale antall spille
 settet og kampen.   
 
 ## 15.8 Spillerbytte ved utvisning eller diskvalifikasjon
-{: #r15--8}
+{: #r15-8}
 En utvist eller diskvalifisert spiller må bli byttet gjennom et reglementert spillerbytte. 
 Dersom dette ikke er mulig, har laget rett til å gjøre et ekstraordinært spillerbytte. 
 Dersom dette ikke er mulig, blir laget erklært ufulltallig.

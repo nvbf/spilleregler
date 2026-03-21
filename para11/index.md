@@ -41,7 +41,7 @@ motstanderne ikke blir hindret i sitt spill.
 Inntrenging på motstandernes banehalvdel, forbi midtlinjen:
 ([1.3.3](../para1/#r1-3-3), fig. 11 (22))
 
-##### 11.2.2.1 
+#### 11.2.2.1 
 {: #r11-2-2-1}
 det er tillatt å berøre motstandernes banehalvdel med en fot (føttene), forutsatt at en del 
 av foten (føttene) enten berører eller befinner seg direkte over midtlinjen.
@@ -49,7 +49,7 @@ av foten (føttene) enten berører eller befinner seg direkte over midtlinjen.
 
 #### 11.2.2.2 
 det er tillatt å berøre motstanders banehalvdel med en hvilken som helst del av kroppen 
-over føttene så lenge dette ikke hindrer motstanderens mulighet for å spill ballen.
+over føttene så lenge dette ikke hindrer motstanderens mulighet for å spille ballen.
 ([11.2.2.1](#r11-2-2-1), fig. 11 (22)) 
 
 ### 11.2.3
@@ -108,7 +108,7 @@ berører eller befinner seg over midtlinjen.
 {: #r11-4-4}
 En spiller påvirker motstanders spill ved (bl.a) å:
 
-- berøre nettet mellom antenne eller antennene men han/hun forsøker eller
+- berøre nettet mellom antennen eller antennene mens han/hun forsøker eller
   faktisk spiller ballen
 - bruker nettet som støtte samtidig som ballen spilles,
 - skaffer seg en urettmessig fordel overfor motstander, 
@@ -118,7 +118,7 @@ En spiller påvirker motstanders spill ved (bl.a) å:
 ([11.3.1](#r11-3-1), fig 11 (19))
 
 Enhver spiller i nærheten av ballen når den spilles, og som selv forsøker å
-spille den, er å betraktes å spille ballen, selv om det faktisk ikke er noen
+spille den, er å betrakte som å spille ballen, selv om det faktisk ikke er noen
 kontakt mellom ball og spiller.
 
 Det er ikke feil av en spiller å berøre nettet utenfor antennene (unntak 
