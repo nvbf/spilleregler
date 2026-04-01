@@ -15,7 +15,7 @@ nav_order: 9
 # 9 Å spille ballen
 {: #r9 .no_toc}
 Hvert lag må spille innenfor eget spilleområde og spillerom (unntatt regel [10.1.2](../para10/#r10-1-2)).
-Ballen kan imidlertid spilles tilbake fra utenfor lagets egen frisonen og over sekretærbordet i 
+Ballen kan imidlertid spilles tilbake fra utenfor lagets egen frisone og over sekretærbordet i 
 dettes hele lengde. (Fig 1b)
 
 ## 9.1 Lagets slag 

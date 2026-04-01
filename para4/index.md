@@ -103,7 +103,7 @@ Nummeret skal plasseres midt på trøyen foran og bak. Fargen på tallene skal k
 seg fra trøyens farge og tallene skal være klart lysere eller mørkere enn trøyen.
 
 #### 4.3.3.2
-{: #r4-3-3-1}
+{: #r4-3-3-2}
 Tallene skal være minimum 15 cm høye på brystet og minimum 20 cm på ryggen. 
 Stripen som tallene er laget av skal være minimum 2 cm bred.
 
@@ -159,7 +159,7 @@ støtte.
 
 [^1]:
     I verdensomfattende FIVB og offisielle konkurranser er det tillatt med
-    maksimalt 14 spillere, og legen og fysioterapeuten være akkreditert av
+    maksimalt 14 spillere, og legen og fysioterapeuten må være akkreditert av
     FIVB på forhånd. Team Manager kan ikke sitte bak spillerbenken i
     kontrollsonen.
 

@@ -5,7 +5,7 @@ has_toc: false
 
 # Spilleregler for volleyball
 
-Dette er den offisielle norsk oversettelsen av
+Dette er den offisielle norske oversettelsen av
 [de internasjonale spillereglene](https://www.fivb.com/volleyball/the-game/official-volleyball-rules/).
 
 ## Innhold

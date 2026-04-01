@@ -24,7 +24,7 @@ spillerlisten.
 ([4.1.1](../para4/#r4-1-1))
 
 Dersom laget har mer enn 12 spillere notert på kampskjemaet (i spillerlisten), må laget 
-utnevne to libroer.
+utnevne to liberoer.
 
 ### 19.1.2
 {: #r19-1-2}
@@ -44,7 +44,7 @@ Det kan ikke på noe tidspunkt være mer enn en libero på banen.
 Liberospillerne skal ha på en drakt (eller vest over spilletrøye for en libero som er 
 utnevnt i løpet av kampen) som har en annen dominant farge enn det de andre spillerne 
 på laget har. Drakten må klart skille seg fra de andre spillerne.
-Libroene kan ha uniformer som er forskjellige fra hverandre.[^1]
+Liberoene kan ha uniformer som er forskjellige fra hverandre.[^1]
 ([4.3](../para4/#r4-3))
 
 Libero uniformen skal nummereres på samme måte som resten av spillerne på laget. 
@@ -92,7 +92,7 @@ libero blir ute av stand til å spille, og ballvekslingen ikke kan gjennomføres
 
 #### 19.3.2.2
 {: #r19-3-2-2}
-Spilleren på banene kan erstattes av hvilken som helst av liberoene. Den «aktive 
+Spilleren på banen kan erstattes av hvilken som helst av liberoene. Den «aktive 
 liberoen» kan bare erstattes av den opprinnelige spilleren i den posisjonen, eller av 
 «reserve-libero». 
 
