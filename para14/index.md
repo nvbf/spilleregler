@@ -70,7 +70,6 @@ spilleren som berørte ballen i blokken.
 ## 14.5 Blokkering av serven
 {: #r14-5}
 Det er forbudt å blokkere en motspillers serve.
-([14.2.4](#r14-2-4))
 
 ## 14.6 Feil i blokkering
 {: #r14-6}

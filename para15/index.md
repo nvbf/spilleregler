@@ -243,8 +243,8 @@ Den første ukorrekte anmodningen som ikke influerer på eller forsinker spillet
 avvises, men må noteres i kampskjemaet uten andre konsekvenser.
 ([16.1](../para16/#r16-1), [27.2.2.6](../para27/#r27-2-2-6))
 
-#### 15.11.2.1
-{: #r15-11-2-1}
+### 15.11.3
+{: #r15-11-3}
 En hvilken som helst gjentatt ukorrekt anmodning i kampen gjelder som forsinkelse av 
 spillet.
 ([16.1.4](../para16/#r16-1-4)) 
