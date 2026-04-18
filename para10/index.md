@@ -20,25 +20,12 @@ parent: Kapittel 4 - Spillehandlinger
 ### 10.1.1
 {: #r10-1-1}
 En ball som spilles inn på motstandernes banehalvdel må passere over nettet innenfor 
-passeringsområdet. Passeringsområdet er den delen av nettets vertikalplan som er 
-begrenset som følger: 
-([10.2](#r10-2), fig. 5)
-
-#### 10.1.1.1 
-nederst, av øvre nettkant;
-([2.2](../para2/#r2-2))
-
-#### 10.1.1.2 
-til sidene, av antennene og deres tenkte forlengelse;
-([2.4](../para2/#r2-4))
-
-#### 10.1.1.3
-øverst, av taket.
+[passeringsområdet](../definisjoner/#def-passeringsomrade).
 
 ### 10.1.2
 {: #r10-1-2}
-En ball som kommer fra lagets første berøring og som har passert nettets vertikalplan
-inn i motstandernes frisone helt eller delvis gjennom det eksterne området, kan spilles
+En ball som kommer fra lagets første berøring og som har passert helt eller delvis gjennom det
+[eksterne området](../definisjoner/#def-eksternt-omrade) inn i motstandernes frisone, kan spilles
 tilbake innenfor lagets antall berøringer, forutsatt at:
 ([9.1](../para9/#r9-1))
 
@@ -49,8 +36,8 @@ spilleren ikke berører motstandernes banehalvdel (unntatt regel [11.2.2.1](../p
 
 #### 10.1.2.2
 {: #r10-1-2-2}
-ballen, når den spilles tilbake, passerer nettets vertikalplan helt eller delvis gjennom det
-eksterne området på samme side av banen. Hvis ikke, regnes ballen som ut.
+ballen, når den spilles tilbake, passerer helt eller delvis gjennom det
+eksterne området på *samme side av banen*. Hvis ikke, regnes ballen som ut.
 Motstanderlaget kan ikke hindre en slik handling.
 
 #### 10.1.2.3
